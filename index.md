@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <!-- <img style="width=305px;height=435px;float:left;padding:10px;"
