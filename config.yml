@@ -1,16 +1,22 @@
-# Site settings
-title: Chad M. Eliason
-email: chad_eliason@utexas.edu
-description: > # this means to ignore newlines until "baseurl:"
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://celiason.github.io" # the base hostname & protocol for your site
-# twitter_username: JAlexBranham
-github_username:  celiason
-# permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
+# Permalinks
+permalink:        pretty
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Setup
+title:            chad eliason
+tagline:          'evolutionary biologist'
+description:      'Evolutionary biologist at the University of Texas at Austin'
+url:              http://celiason.github.io
+
+author:
+  name:           'Chad Eliason'
+  url:            na
+
+# paginate:         5
+
+github:
+  repo:           https://github.com/mwpennell/mwpennell.github.io
+
