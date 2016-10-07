@@ -12,7 +12,7 @@ I am broadly interested in how complex traits evolve. My graduate research deal
 
 __Current address:__  
 Jackson School of Geosciences  
-University of Texas at Austin  
+<a href="http://www.utexas.edu/">University of Texas at Austin</a>  
 <!-- Field Museum of Natural History  
 Division of Birds  
 1400 S. Lake Shore Drive  
@@ -22,7 +22,6 @@ phone: (312) 922-9410
 <!-- web: [https://www.fieldmuseum.org/science/research/area/birds](https://www.fieldmuseum.org/science/research/area/birds) -->
 2275 Speedway C9000  
 Austin, TX, 78712  
-<a href="http://www.utexas.edu/">University of Texas at Austin</a>  
 [chad_eliason@utexas.edu](mailto:chad_eliason@utexas.edu)  
 <!-- [website](https://celiason.github.io)   -->
 
