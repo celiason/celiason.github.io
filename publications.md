@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-([Google scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [academia.edu](http://utexas.academia.edu/ChadEliason), [researchgate](https://www.researchgate.net/profile/Chad_Eliason))
+([Google Scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [Academia.edu](http://utexas.academia.edu/ChadEliason), [ResearchGate](https://www.researchgate.net/profile/Chad_Eliason))
 
 
 ## Published or in press
