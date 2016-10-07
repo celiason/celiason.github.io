@@ -37,9 +37,9 @@ Blackledge TA, __Eliason CM__ 2007. Functionally independent components of prey 
 
 ## In revision/review
 
-D'Alba L, Torres R, Waterhouse G, __Eliason CM__, Hauber M, Shawkey MD. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. Submitted to _Physiological and Biochemical Zoology_.
+<!-- D'Alba L, Torres R, Waterhouse G, __Eliason CM__, Hauber M, Shawkey MD. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. Submitted to _Physiological and Biochemical Zoology_. -->
 
-__Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. Exceptional preservation and the fossil record of tetrapod integument. Submitted to _Proceedings B_.
+<!-- __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. Exceptional preservation and the fossil record of tetrapod integument. Submitted to _Proceedings B_. -->
 
 Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. In revision at _Science_.
 
