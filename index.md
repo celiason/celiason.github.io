@@ -11,8 +11,8 @@ I am broadly interested in how complex traits evolve. My graduate research deal
 <!-- Although I have primarily focused on birds, I have also worked with non-avian taxa (butterfly fish, tarantulas, and orb-weaving spiders–see my publication in Biol. Letters). In addition, I have experience with diverse microscopy techniques (TEM, SEM, AFM), phylogenetic/comparative methods (BEAST, MrBayes, diversitree, OUwie), and coding languages (Scheme, R–see my recent publication in Methods Ecol. Evol.), and I have spent considerable time sampling from museum collections. -->
 
 __Current address:__  
-Jackson School of Geosciences
-University of Texas at Austin
+Jackson School of Geosciences  
+University of Texas at Austin  
 <!-- Field Museum of Natural History, Division of Birds  
 1400 S. Lake Shore Drive  
 Chicago, IL 60605-2496  
