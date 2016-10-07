@@ -1,0 +1,165 @@
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage{hyperref}
+
+\usepackage{geometry}
+\geometry{letterpaper, marginparsep=7pt, marginparwidth=0.9in, right=1in, left=1in, top=1in, bottom=1in}
+\setlength\parindent{0in}
+
+% SET LEFT JUSTIFICATION FOR TEXT
+\raggedright
+
+% FONTS
+% Sans serif option:
+\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1]{fontenc}
+% Palatino option:
+% Comment the following lines to use the default Computer Modern font instead of
+% the Palatino font provided by the mathpazo package. Remove the 'osf' bit if
+% you don't like the old style figures.
+% \usepackage[T1]{fontenc}
+% \usepackage[sc,osf]{mathpazo}
+
+
+% COLORFUL FONT FOR TITLES
+\usepackage{xcolor}
+% \color[rgb]{1,0,0}
+% \let\oldtextbf\textbf
+% \renewcommand{\textbf}[1]{\textcolor[rgb]{0,0.4,0.38}{\oldtextbf{#1}}}
+\definecolor{mygreen}{RGB}{20,149,164}
+\newcommand{\jobtitle}[1]{\textcolor{mygreen}{\textbf{#1}}}
+\newcommand{\inst}[1]{\textcolor{mygreen}{\textmd{#1}}}
+\newcommand{\myname}[1]{\textcolor{mygreen}{\textbf{#1}}}
+\newcommand{\journal}[1]{\textcolor{black}{#1}}
+\newcommand{\highlight}[1]{\textcolor{black}{\textit{\textbf{#1}}}}
+
+% Custom section fonts and colors
+\usepackage{xcolor}
+\usepackage{sectsty}
+\sectionfont{\sffamily\mdseries\bf}
+% \subsectionfont{\sffamily\mdseries\large\bf\color[rgb]{0,0,.3}}
+\subsectionfont{\sffamily\mdseries\large\bf\color{black}}
+
+
+% MARGIN YEARS
+\usepackage{marginnote}
+% regular size
+% \newcommand{\years}[1]{\marginnote{#1}}
+% small, script size
+\newcommand{\years}[1]{\marginnote{\scriptsize #1}}
+% \renewcommand*{\raggedleftmarginnote}{}
+\renewcommand*{\raggedrightmarginnote}{}
+\setlength{\marginparsep}{0.1in}
+\reversemarginpar
+
+
+% LISTS
+\usepackage{enumitem}
+\usepackage{etaremune}
+
+
+\def\name{Chad M. Eliason}  % Set your name here
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+
+% \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
+\usepackage[compact]{titlesec}
+\titlespacing{\section}{0pt}{*1}{*1}
+\titlespacing{\subsection}{0pt}{*0}{*0.5}
+\titlespacing{\subsubsection}{0pt}{*0}{*0.5}
+
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{0em}
+    % \setlength{\itemsep}{0.5em}
+    \setlength{\itemsep}{1.0em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0em}
+  }
+}{
+  \end{list}
+}
+
+
+% Sublists - no line spacing
+\newenvironment{subitemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{0em}
+    \setlength{\itemsep}{0em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0em}
+  }
+}{
+  \end{list}
+}
+
+
+% \renewcommand{\labelitemi}{}
+% Make second level idents have bullets
+% \renewcommand{\labelitemii}{$\bullet$}
+
+% get rid of extra white space
+% \setlength{\parskip}{0pt}
+% \setlength{\parsep}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\topmargin}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}
+
+
+
+\begin{document}
+
+%\setcounter{page}{3}
+
+\pagestyle{empty}
+
+% {\huge \name}  % Place name at left
+
+% Alternatively, print name centered and bold:
+\centerline{\bf\huge\name}
+% \centerline{\bf\normalsize Curriculum Vitae}
+\vspace{0.25in}
+
+\input{cv/cv-body.tex}
+
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
+

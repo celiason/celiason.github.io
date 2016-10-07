@@ -1,0 +1,34 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Chad Eliason
+tagline:             'Postdoctoral Fellow, Field Museum of Natural History'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Chad Eliason
+  url:               https://twitter.com/mdo
+  email:             chad_eliason@utexas.edu
+
+# Custom vars
+version:             1.0.0
+
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
