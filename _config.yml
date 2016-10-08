@@ -11,9 +11,6 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
-# Google services
-google_analytics: UA-85421317-1
-
 # About/contact
 author:
   name:              Chad Eliason
