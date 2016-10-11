@@ -28,7 +28,7 @@ __Eliason CM__, Shawkey MD. 2012. A photonic heterostructure produces diverse ir
 
 __Eliason CM__, Shawkey MD. 2011. Decreased hydrophobicity of iridescent feathers: a potential cost of shiny plumage. _Journal of Experimental Biology_ 214:2157-2163. ___(Named as Editor's Choice for that issue of JEB, and as one of the top eight articles of the year; received press coverage in Spiegel Online, phys.org)___ [[pdf]]({{url}}/pdfs/hydrophobicity.pdf) [[doi]](https://doi.org/10.1242/jeb.055822)
 
-Shawkey MD, D'Alba L, Wozny J, __Eliason CM__, Koop JAH, Jia L. 2011. Structural color change following hydration and dehydration of iridescent mourning dove (Zenaida macroura) feathers. _Zoology (Jena)_ 114:59-68. [[doi]](http://dx.doi.org/10.1016/j.zool.2010.11.001)
+Shawkey MD, D'Alba L, Wozny J, __Eliason CM__, Koop JAH, Jia L. 2011. Structural color change following hydration and dehydration of iridescent mourning dove (Zenaida macroura) feathers. _Zoology (Jena)_ 114:59-68. [[pdfs]]({{url}}/pdfs/modo.pdf) [[doi]](http://dx.doi.org/10.1016/j.zool.2010.11.001)
 
 __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18:21284-92. [[pdf]]({{url}}/pdfs/rapid.pdf) [[doi]](https://doi.org/10.1364/OE.18.021284)
 
