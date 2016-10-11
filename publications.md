@@ -10,7 +10,7 @@ title: Publications
 
 Riede T, __Eliason CM__, Miller EH, Goller F, Clarke JA. 2016. Coos, booms, and hoots: the evolution of closed-mouth vocal behavior in birds. _Evolution_ 70:1734-1746. ___Received extensive media coverage, including The Tonight Night Show with Jimmy Fallon, Time Magazine, NPR Weekend Edition___ [[pdf]]({{url}}/pdfs/coos.pdf") [[doi]](http://dx.doi.org/10.1111/evo.12988)
 
-Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf/") [[doi]](http://dx.doi.org/10.1111/bij.12810)
+Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf") [[doi]](http://dx.doi.org/10.1111/bij.12810)
 
 __Eliason CM__, Shawkey MD, Clarke JA. 2016. Evolutionary shifts in the melanin-based color system of birds. _Evolution_ 70:445-455. [[pdf]]({{url}}/pdfs/melanin.pdf/") [[doi]](https://dx.doi.org/10.1111/evo.12855)
 
