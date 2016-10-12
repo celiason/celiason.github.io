@@ -18,9 +18,9 @@ __Eliason CM__, Maia R, Shawkey MD. 2015. Modular color evolution in ducks facil
 
 __Eliason CM__, Shawkey MD. 2014. Antireflection-enhanced color by a natural graded refracting index (GRIN) structure. _Optics Express_ 22:A642-A650. ___(Highlighted in Virtual Journal of Biomedical Optics)___ [[pdf]]({{url}}/pdfs/antireflection.pdf) [[doi]](https://doi.org/10.1364/OE.22.00A642)
 
-D'Alba LD, Jones DN, __Eliason CM__, Badawy HT, Shawkey MD. 2014. Antimicrobial properties of a nanostructured eggshell from a compost-nesting bird. _Journal of Experimental Biology_ 217:116-1121.
+D'Alba LD, Jones DN, __Eliason CM__, Badawy HT, Shawkey MD. 2014. Antimicrobial properties of a nanostructured eggshell from a compost-nesting bird. _Journal of Experimental Biology_ 217:116-1121. [[pdf]]({{url}}/pdfs/compost.pdf) [[doi]](http://doi.org/10.1242/jeb.098343)
 
-__Eliason CM__, Bitton, P-P, Shawkey MD. 2013. How hollow melanosomes affect iridescent colour production in birds. _Proceedings of the Royal Society: B_ 280:20131505. [[pdf]]({{url}}/pdfs/hollow.pdf) [[doi]](https://doi.org/10.1098/rspb.2013.1505)
+__Eliason CM__, Bitton, P-P, Shawkey MD. 2013. How hollow melanosomes affect iridescent colour production in birds. _Proceedings of the Royal Society: B_ 280:20131505. [[pdf]]({{url}}/pdfs/hollow.pdf) [[doi]](http://doi.org/10.1098/rspb.2013.1505)
 
 Maia R, __Eliason CM__, Bitton, P-P, Doucet SM, Shawkey MD. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. _Methods in Ecology and Evolution_ 4:906-913. [[pdf]]({{url}}/pdfs/pavo.pdf) [[doi]](https://doi.org/10.1111/2041-210X.12069)
 
