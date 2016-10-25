@@ -1,17 +1,32 @@
 ---
-<!-- layout: page -->
+layout: page
 title: Research
 ---
 
-## Evolutionary biophotonics
+I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others, a longstanding challenge in evolutionary biology. My approach to science involves: 1) leveraging computational approaches to model form-function relationships in complex functional systems in nature (e.g., layered nanostructures in bird feathers), 2) searching for novel phenotypes and non-model functional systems that may be common in nature but have escaped our attention, and 3) integrating my research and teaching (through problem-based learning activities and undergraduate research mentorship).
+
+Most of my research focuses on three main areas:
+
+<!-- I've looked at several different functional systems (iridescence, sound production mechanisms). ___Why are iridescent colors a good system to understand how evolution works?___
+
+- colors change with angle
+<img src="/img/duck-green.jpg" width="300" />
+- colors can be modeled with computational approaches
+- colors, structures evolve really fast
+ -->
+
+
+## Proximate mechanisms and innovations in signal production in birds
+
+<!-- ## Evolutionary biophotonics -->
 
 <img src="/img/nanostructures.png">
 
-<!-- <img align="right" src="/img/meep_movie_slow.gif" width="120"> -->
-
-I use optical models to link form and function. I then use these models to calculate how many colors birds can theoretically produce with a given color-producing mechanism. Comparing this "theoretical colorspace" to the observed values in nature sheds light on potential developmental constraints and tradeoffs limiting color diversity.
+I use optical models to link form and function. I then use these models to calculate how many colors birds can theoretically produce with a given color-producing mechanism. Comparing this theoretical colorspace to empirical values in extant species sheds light on potential developmental constraints and tradeoffs limiting color diversity.
 
 Relevant publications:
+
+<img align="right" src="/img/meep_movie_slow.gif" width="120">
 
 * Eliason CM, Shawkey MD (2014). Antireflection-enhanced color by a natural graded refracting index (GRIN) structure. Optics Express 22(S3):A642-A650. (highlighted in Virtual Journal of Biomedical Optics) [[pdf]](/pdfs/antireflection.pdf")
 
@@ -20,15 +35,15 @@ Relevant publications:
 * Eliason CM, Shawkey MD (2012). A photonic heterostructure produces diverse iridescent colours in duck wing patches. Journal of the Royal Society Interface 9(74):2279-2289. (Received press coverage in Science) [[pdf]](/pdfs/heterostructure.pdf)
 
 
-## Signal evolution in birds
+## Macroevolutionary trends in signal diversity
+
+<!-- ## Signal evolution in birds -->
 
 <img src="/img/duckbarbs2.jpg">
 
-<!-- <img src="/img/duck-green.jpg" width="300" /> -->
+(among-species variation in feather hue within a single clade of dabbling ducks)
 
-I am interested in exploring proximate mechanisms for color traits in dabbling ducks (Anatidae) using multivariate comparative methods to estimate divergence rates for morphological and optical variables.
-
-MORE
+Animals communicate in diverse ways (using chemicals, sounds, colors, and touch). I am interested in understanding how the properties of these different kinds of signaling systems (call frequency, color) diversify through sexual selection. I use comparative methods to test hypotheses originating from my work on proximate mechanisms of how signals are produced (see above). Previous work shows how a "malleable" and highly conserved array of pigment granules within bird feathers explains the fast rates and independent evolution of brightness evolution compared to hue.
 
 Relevant publications:
 
@@ -43,14 +58,16 @@ Relevant publications:
 * Eliason CE, Maia R, Shawkey MD. Modular color evolution in ducks facilitated by a complex nanostructure. In Press. Evolution [[pdf]](/pdfs/modular.pdf)
 
 
+## Materials science and tradeoffs/costs of sexually selected signals
 
-## Integrating materials science and sexual selection
+<!-- ## Integrating materials science and sexual selection -->
 
-<!-- <img class="alignright wp-image-43 size-medium" src="/img/banner1.jpg" /> -->
+<!-- <img src="/img/water_on_feather.jpg"> -->
 
-<!-- <img class="alignnone wp-image-34 size-medium" src="http://localhost:8888/wp-content/uploads/2014/10/DSC_0030-300x199.jpg" alt="DSC_0030" width="300" height="199" /><a href="http://localhost:8888/wp-content/uploads/2014/10/DSC_0031.jpg"><img class="alignnone size-medium wp-image-35" src="http://localhost:8888/wp-content/uploads/2014/10/DSC_0031-300x199.jpg" alt="DSC_0031" width="300" height="199" /></a> -->
+<img src="/img/banner1.jpg">
 
-Bird feathers are made up of keratin. Keratin is a protein that is "sticky" when around water. I studied these non-ornamental properties of plumages and found that these properties trade off with ornamental color properties in ducks. (add self-cleaning picture) - In future work, I would like to incorporate climatic data to test global patterns of brightness variation... (can I get at this with the duck spectral data i have? what is the prediction?)
+
+The external surface (integument, eggshell) is the primary interface between an organism and its environment. Water is ubiquitous in nature, and can be a selective agent for material properties of these surfaces. For example, bird feathers are made up of keratin, a protein that "sticks" to water. Because of this, variation in the brightness of color signals in ducks is closely related to how water repellent the feathers are. This means that non-ornamental properties of bird feathers can tradeoff with ornamental color properties. In future work, I would like to incorporate climatic data to test global patterns of signal variation in relation to climatic factors (precipitation, humidity). <!-- .. (can I get at this with the duck spectral data i have? what is the prediction?) -->
 
 Relevant publications:
 
@@ -62,36 +79,30 @@ Relevant publications:
 
 * __Eliason CM__, Shawkey MD (2010). Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18(20):21284-92.
 
-<img src="/img/water_on_feather.jpg">
-
 
 ## Computational approaches for manipulating and visualizing large phenotypic datasets
 
-I am currently working on an NSF-funded grant exploring morphological and molecular evolution in "primitive" birds, palaeognaths. Recent molecular evidence (cite) shows that the tinamous, a group of ~50 flying birds, are actually nested within the non-flying ratites. This implies that - add pic of ostrich, moa?
+I am currently working on an NSF-funded grant exploring morphological and molecular evolution in palaeognaths (including the largest bird that ever lived, the elephant bird). Recent molecular evidence shows that tinamous, a group of ~50 flying birds, are actually nested within the flightless, large-bodied "ratites", suggesting several losses of flight that may be linked to variation in other life history, behavioral, or morphological traits. I am currently working ways to automate the process of assembling information on these traits from the literature and understanding _how convergent evolution works_ using flightless ratites as a model system.
 
 <img src="/img/character_accumulation.png">
 
-Relevant publications:
+Relevant publications/presentations:
 
-* Maia R, Eliason CM, Bitton P-P, Doucet SM, Shawkey MD (2013). pavo: an R package for the analysis, visualization and organization of spectral data. <em>Methods in Ecology and Evolution</em> 4(10):906-913.
+* Maia R, __Eliason CM__, Bitton P-P, Doucet SM, Shawkey MD (2013). pavo: an R package for the analysis, visualization and organization of spectral data. <em>Methods in Ecology and Evolution</em> 4(10):906-913.
 
-* ... (phenome poster)
+<!-- <img src="/img/pavo-workflow.png" width="300"> -->
 
-<img src="/img/pavo-workflow.png" width="300">
-
-
-## Past research projects
-
-spiders (TODO: add pic of me cutting up a web, talk about what we found)
-
-Relevant publications:
-
-* Blackledge T.A., Eliason CM (2007). Functionally independent components of prey capture are architecturally constrained in spider orb webs. _Biology Letters_ 3(5):456-458.
+* __Eliason CM__, Clarke JA. Pipelines and methods for visualization and analysis of phenomic data. Society for the Study of Evolution annual conference. Austin, TX. June 17 - 21, 2016. [[poster]](/img/phenome_poster.jpg) (manuscript currently in prep)
 
 
-## Other projects:
+## Field work and other projects
 
 I worked on various field projects in the "Big Woods" of Arkansas. The goal was to understand the habitat preferences and breeding behaviors of large woodpeckers, like the pileated woodpeckers shown below.
 
 <img src="/img/pileated1.jpg" width="350">
 
+<img src="/img/spiderweb.jpg">
+
+Relevant publications:
+
+* Blackledge T.A., Eliason CM (2007). Functionally independent components of prey capture are architecturally constrained in spider orb webs. _Biology Letters_ 3(5):456-458.
