@@ -20,7 +20,7 @@ I am broadly interested in understanding why some groups of organisms are more p
 
 <img src="/img/nanostructures.png">
 
-I use optical models to link form and function. I then use these models to calculate how many colors birds can theoretically produce with a given color-producing mechanism. Comparing this theoretical colorspace to empirical values in extant species sheds light on potential developmental constraints and tradeoffs limiting color diversity.
+I use optical models to link form and function. I then use these models to calculate the range of colors birds theoretically produce with a given color-producing mechanism. Comparing this "theoretical colorspace" to empirical values in extant species can shed light on potential developmental constraints and tradeoffs in color diversity.
 
 Relevant publications:
 
@@ -69,7 +69,7 @@ Relevant publications:
 
 <!-- <img src="/img/banner1.jpg"> -->
 
-The external surface of animals (integument, eggshell) is the primary interface between an organism and its environment. Water is ubiquitous in nature, and can be a selective agent for material properties of these surfaces. For example, bird feathers are made up of keratin, a protein that "sticks" to water. Because of this, water in the environment can cause feathers to swell and change color when humidity is high (Eliason and Shawkey 2010). In addition, the way keratin is structured at the surface of feathers can influence both color and water repellency of feathers. This means that non-ornamental properties of feathers tradeoff with ornamental color properties (Eliason and Shawkey 2011). In future work, I will be testing trends in how colors spread out (both across a bird's body and geographically in relation to variation in climatic factors
+The external surface of animals (integument, eggshell) is the primary interface between an organism and its environment. Water is ubiquitous in nature, and can be important in the function and evolution of the material properties of these surfaces. For example, bird feathers are made up of keratin, a protein that "sticks" to water. Because of this, water in the environment can cause feathers to swell and change color when humidity is high (Eliason and Shawkey 2010). In addition, the way keratin is structured at the surface of feathers can influence both color and water repellency of feathers. This means that non-ornamental properties of feathers tradeoff with ornamental color properties (Eliason and Shawkey 2011). In future work, I will be looking at trends in how color "spreads out" (both across a bird's body and geographically) in relation to environmental factors.
 
 Relevant publications:
 
