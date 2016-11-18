@@ -34,29 +34,3 @@ __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feath
 
 Blackledge TA, __Eliason CM__ 2007. Functionally independent components of prey capture are architecturally constrained in spider orb webs. _Biology Letters_ 3:456-458. [[pdf]]({{url}}/pdfs/spiders.pdf) [[doi]](https://doi.org/10.1098/rsbl.2007.0218)
 
-
-## In revision/review
-
-<!-- D'Alba L, Torres R, Waterhouse G, __Eliason CM__, Hauber M, Shawkey MD. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. Submitted to _Physiological and Biochemical Zoology_. -->
-
-<!-- __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. Exceptional preservation and the fossil record of tetrapod integument. Submitted to _Proceedings B_. -->
-
-Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. In revision at _Science_.
-
-
-<!-- ## In prep
-
-__Eliason CM__, Van Houten R, Clarke JA. Feather evolution in ratites.
-
-Eliason et al. Moa plumage
-
-Torres et al. Brain evolution.
-
-__Eliason CM__, Butler M, Maia R, McGraw KJ, Shawkey MD. Dichromatism and effects of diet on iridescent nanostructures in birds. Submitted to xx.
-
-Mitan C, __Eliason CM__, Dakin R, Shawkey MD. Nanostructural basis for iridescence in peacocks ({\it Pavo cristatus}). Submitted to xx.
-
-__Eliason CM__, Clarke JA. Phenotools: a flexible pipeline for assembly and analysis of large phenomic datasets. Submitted to _Systematic Biology_.
-
- -->
-
