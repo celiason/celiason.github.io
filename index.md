@@ -21,17 +21,19 @@ A key question I am working on is why some groups of birds are more phenotypical
 <!-- Although I have primarily focused on birds, I have also worked with non-avian taxa (butterfly fish, tarantulas, and orb-weaving spiders–see my publication in Biol. Letters). In addition, I have experience with diverse microscopy techniques (TEM, SEM, AFM), phylogenetic/comparative methods (BEAST, MrBayes, diversitree, OUwie), and coding languages (Scheme, R–see my recent publication in Methods Ecol. Evol.), and I have spent considerable time sampling from museum collections. -->
 
 __Current address:__  
-Jackson School of Geosciences  
+<!-- Jackson School of Geosciences  
 <a href="http://www.utexas.edu/">University of Texas at Austin</a>  
 2275 Speedway C9000  
 Austin, TX, 78712  
 [chad_eliason@utexas.edu](mailto:chad_eliason@utexas.edu)  
-
-__Future address:__  
-[Field Museum of Natural History](https://www.fieldmuseum.org/science/research/area/birds)  
-Division of Birds  
+ -->
+<!-- __Future address:__   -->
+<!-- Chad M. Eliason   -->
+Field Museum of Natural History  
+Integrative Research Center  
 1400 S. Lake Shore Drive  
 Chicago, IL 60605-2496  
+[celiason@fieldmuseum.org](mailto:celiason@fieldmuseum.org)
 
 <!-- [website](https://celiason.github.io) -->
 
