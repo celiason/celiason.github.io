@@ -8,6 +8,10 @@ title: Publications
 
 ## Published or in press
 
+__Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. Exceptional preservation and the fossil record of tetrapod integument. _Proceedings of the Royal Society B_ 284:20170556. [[pdf]]({{url}}/pdfs/lagerstatten.pdf) [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556)
+
+D'Alba L, Torres R, Waterhouse G, __Eliason CM__, Hauber M, Shawkey MD. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. _Physiological and Biochemical Zoology_ 90:588-599. [[doi]](https://doi.org/10.1086/693434)
+
 Riede T, __Eliason CM__, Miller EH, Goller F, Clarke JA. 2016. Coos, booms, and hoots: the evolution of closed-mouth vocal behavior in birds. _Evolution_ 70:1734-1746. ___Received extensive media coverage, including The Tonight Night Show with Jimmy Fallon, Time Magazine, NPR Weekend Edition___ [[pdf]]({{url}}/pdfs/coos.pdf) [[doi]](http://dx.doi.org/10.1111/evo.12988)
 
 Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf) [[doi]](http://dx.doi.org/10.1111/bij.12810)
