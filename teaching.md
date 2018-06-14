@@ -20,3 +20,6 @@ I have been mentoring diverse students at The University of Texas at Austin (8 u
 ## Outreach
 
 <img src="/img/caihong_donors.jpg">
+
+Chad at an outreach event at a local bar in Chicago talking about a new rainbow-colored dinosaur.
+
