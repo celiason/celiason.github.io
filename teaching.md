@@ -16,3 +16,7 @@ I have been involved in teaching and developing a flagship course on research me
 I have been mentoring diverse students at The University of Texas at Austin (8 undergraduates, 1 McNair Scholar) on research involving the evolution of melanin-based color in birds, color reconstruction in extinct dinosaurs, and feather evolution. In the past, I have co-mentored undergraduate biology students at the University of Akron (Jean-Pierre Iskandar, Chance Mitan) that have developed independent research projects, conducted the work, and won various awards for their presentations. One student, Jean-Pierre Iskandar (pictured below) is first author on a recent publication in the _Biological Journal of the Linnean Society_. These close interactions have helped shape my own thinking about how people learn and ways to more effectively communicate aspects of my own research.
 
 <img src="/img/JP_Poster_med.jpg">
+
+## Outreach
+
+<img src="/img/Caihong_donors.jpg">
