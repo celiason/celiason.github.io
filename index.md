@@ -10,7 +10,9 @@ title: Home
 
 I am an evolutionary biologist who uses a combination of mathematical modeling and experimental work, primarily in birds, to study how complex traits evolve.
 
-A key question I am working on is why some groups of birds are more phenotypically diverse than others. I use bird feathers as a model system for studying complex trait evolution because feathers are _morphologically diverse_ and they serve _multiple functions_ in the lives of birds (thermoregulation, color signaling, water repellency), many of which can be explored theoretically using mathematical models. In addition to my work on feather coloration, I am also investigating biomechanical and cranial diversity in birds and developing computational approaches for dealing with large phenotypic datasets.
+Understanding why some groups of organisms are more diverse than others remains a key challenge in biology. I am particularly interested in how organisms use their traits in the environment (e.g., for display or catching prey) and how these traits respond to changes in the environment over short and long evolutionary timescales. My research tackles these questions using the avain integument (including feathers, beaks and skin) as a model system. With this work, I hope to gain a better understanding of trait diversity in diverse species groups and be able to better predict how species respond to environmental change.
+
+<!-- A key question I am working on is why some groups of birds are more phenotypically diverse than others. I use bird feathers as a model system for studying complex trait evolution because feathers are _morphologically diverse_ and they serve _multiple functions_ in the lives of birds (thermoregulation, color signaling, water repellency), many of which can be explored theoretically using mathematical models. In addition to my work on feather coloration, I am also investigating biomechanical and cranial diversity in birds and developing computational approaches for dealing with large phenotypic datasets. -->
 
 <!-- more powerful word than investigating? -->
 

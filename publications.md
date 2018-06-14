@@ -8,6 +8,10 @@ title: Publications
 
 ## Published or in press
 
+Li Z, Clarke JA, __Eliason CM__, Stidham TA, Deng T, Zhou Z. Vocal specialization through tracheal elongation in an extinct Miocene pheasant from China. _Scientific Reports_.
+
+Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9.
+
 __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. _Proceedings of the Royal Society B_ 284:20170556. [[pdf]]({{url}}/pdfs/lagerstatten.pdf) [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556)
 
 D'Alba L, Torres R, Waterhouse G, __Eliason CM__, Hauber M, Shawkey MD. 2017. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. _Physiological and Biochemical Zoology_ 90:588-599. [[doi]](https://doi.org/10.1086/693434)
