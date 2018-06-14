@@ -19,4 +19,4 @@ I have been mentoring diverse students at The University of Texas at Austin (8 u
 
 ## Outreach
 
-<img src="/img/Caihong_donors.jpg">
+<img src="/img/caihong_donors.jpg">
