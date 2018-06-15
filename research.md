@@ -48,18 +48,9 @@ Relevant publications:
 
 ![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)*
 
-I use mathematical models to link form and function in complex traits (for example, the arrays of pigment granules in bird feathers shown above). I then use these models to calculate the range of colors birds theoretically produce compared to observed values in nature. I study these "functional systems" across length scales (from the nanoscale to macroscale), drag-reducing beaks and color-producing feathers, using both modern and fossil taxa, to understand innovations in signal production and (Eliason et al. 2012, 2013) to reconstruct color and morphology of the integument in deep time (Eliason et al. 2017).
+I use mathematical models to link form and function in complex traits. I study functional systems (including color-producing feathers and drag-reducing beaks) across length scales (from the nanoscale to macroscale), using both modern and fossil taxa. As an example of this approach, each layer of pigment granules (shown above in bird feathers) are able to reflect light. Certain wavelengths cancel each other out, while others arrive in phase at the viewer's eye. The wavelengths that arrive in phase contribute to the perceived color. Using optical models, I can calculate the theoretical colorspace and compare this to values I measure from bird specimens. Studies like this have enabled me to understand innovations in signal production (Eliason et al. 2012, 2013) and reconstruct color in deep time (Hue et al. 2018). Ultimately, this work will help me tackle the question of how complex morphological traits evolve.
 
 <!-- ![](/img/flowlines.png)*Computational model of the way water moves over the body of a bird* -->
-
-
-<!-- How do complex traits evolve?
-
-- beak-skull stuff
-- optical nanostructures
-- integumentary structures/taphonomy
- -->
-
 
 Relevant publications:
 
@@ -75,36 +66,36 @@ Relevant publications:
 
 ## Species traits and speciation
 
-![](/img/beak_phenograms.png)*Beak diversity in species assemblies from Sub-Saharan Africa (green) show significantly lower diversity than communities in Australia (orange)*
+![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)*
 
-<!-- ![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (specimens from the Field Museum of Natural History)* -->
+Divergence in ecological traits by natural selection is a key step in the speciation process. However, divergence in nonecological traits by sexual selection can also be important for maintaining reproductive isolation between populations. Testing the relative rates of divergence in ecological and nonecological traits might shed light on the drivers of speciation. My background has prepared me to study complex traits with an array of techniques, including spectrophotometry, CT scanning, geometric morphometrics, phylogenetic comparative methods, and mathematical modeling. For my current postdoctoral work at the Field Museum, I am leveraging this expertise in studying the evolution of ecological and nonecological traits in kingfishers. Kingfishers are an ideal group for this work because they comprise a global radiation with variable plumage colors, beak shapes, and foraging behaviors (including the archetypal plunge-dive into water). Initial analyses indicate several independent gains of plunge-diving behavior in the group, distinct patterns of morphospace occupation for different foraging behaviors, and considerable rate variation among different skull regions (e.g., brains and beaks). Going forward, I will be integrating beak shape and plumage diversity to i) identify potential tradeoffs between these different trait systems and ii) evaluate the relative importance of signals and ecological trait divergence in species diversification. I anticipate these results will have implications for biomimetic design of novel drag-reducing structures and help to clarify the interacting roles of sexual and natural selection in trait diversification.
 
-Questions I am interested in:
+![](/img/beak_phenograms.png)*Beak diversity is higher in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)*
+
+<!-- Questions I am interested in:
 
 * signaling systems and genomics/combining molecules and morphology to understand sensory system evolution
 * macroecology/dispersal/wing shape
 * beak ecomorphology, wing shape/dispersal, macroecology
+ -->
 
 ---
 
 
-## Rapid phenotyping
+<!-- ## Rapid phenotyping -->
 
-<!-- ## Visualizing and processing phenomic data -->
+## Visualizing and processing phenomic data
 
-![](/img/phenotyping.png)*Automated generation of surface landmarks for 60 kingfisher species*
+![](/img/phenotyping.png)*Automated generation of surface landmarks in birds*
 
-<!-- ![](/img/brains.png)*Surface semi-landmarks auto-generated for 60 kingfisher species* -->
-
-Much of my research involves dealing with and manipulating large phenotypic datasets. I am therefore interested in finding ways to use computational approaches to make this processes simpler and faster. I am currently working on an NSF-funded grant exploring morphological and molecular evolution in palaeognaths (including the largest bird that ever lived, the elephant bird). Recent molecular evidence shows that the flighted tinamous (a group of ~50 "chicken-like" birds) are phylogenetically nested within the large-bodied flightless "ratites", suggesting several losses of flight potentially linked to variation in other morphological, behavioral, or life history traits within the palaeognaths (ratites and tinamous). I am currently working on developing methods for _visualizing and automating the process of assembling phenotypic data_ for these traits from the literature, as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system.
+Much of my research involves dealing with and manipulating large phenotypic datasets. I am interested in finding ways to use computational approaches to make this processes simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for _visualizing and automating the process of assembling phenotypic data_ for these traits from the literature, as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system. I have also been developing computational approaches for phenotyping complex 3D structures, like the brain. Traditional landmark placement involves several hours of work. Recently, semi-automated approaches have been developed for investigatin the shape of primate brains. I am using these methods for high-throughput landmarking of brains to understand how brain shape changes across radiations of birds:
 
 <!-- ![](/img/ontology_ggnet.jpg)*Trait ontology used for understanding relationships among traits in a discrete morphological character matrix* -->
 
-Another interest I have is in phenotyping 3D structures, like bird beaks and brains. Traditional landmark placement involves several hours of user input. Recent semi-automated approaches have been developed for recovering shapes of internal structures in primates. I am using these methods for high-throughput landmarking of braincases in a cosmopolitan radiation of birds. Using these 3D coordinates, I can begin to visualize shape changes in the brain.
+![](/img/brainwarp_sm.gif)*Primary axis of phenotypic variation in the kingfisher brain*
 
-<!-- ![](/img/brainwarp_sm.gif)*Primary axis of phenotypic variation in the brains of kingfishers* -->
 
-Relevant publications/presentations:
+Relevant publications and presentations:
 
 * __Eliason CM__, Clarke JA. Pipelines and methods for visualization and analysis of phenomic data. Society for the Study of Evolution annual conference. Austin, TX. June 17 - 21, 2016. [[poster]](/img/phenome_poster.jpg) (manuscript currently in prep)
 * Maia R, __Eliason CM__, Bitton, P-P, Doucet SM, Shawkey MD. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. _Methods in Ecology and Evolution_ 4:906-913. [[pdf]]({{url}}/pdfs/pavo.pdf) [[doi]](https://doi.org/10.1111/2041-210X.12069)
