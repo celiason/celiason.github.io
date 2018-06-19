@@ -5,8 +5,7 @@ title: Publications
 
 ([Google Scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [Academia.edu](http://utexas.academia.edu/ChadEliason), [ResearchGate](https://www.researchgate.net/profile/Chad_Eliason))
 
-
-## Published or in press
+<!-- ## Published or in press -->
 
 Li Z, Clarke JA, __Eliason CM__, Stidham TA, Deng T, Zhou Z. Vocal specialization through tracheal elongation in an extinct Miocene pheasant from China. _Scientific Reports_.
 

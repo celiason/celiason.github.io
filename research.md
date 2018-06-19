@@ -10,7 +10,7 @@ Specifically, my research focuses on four main areas:
 1. Signal evolution
 2. Evolutionary morphology
 3. Species traits and speciation
-4. Visualizing phenomic data
+4. Computational phenomics
 
 
 ---
@@ -84,16 +84,17 @@ Divergence in ecological traits by natural selection is a key step in the specia
 
 <!-- ## Rapid phenotyping -->
 
-## Visualizing and processing phenomic data
+## Computational phenomics
 
-![](/img/phenotyping.png)*Automated generation of surface landmarks in birds*
+<!-- ## Visualizing and processing phenomic data -->
 
-Much of my research involves dealing with and manipulating large phenotypic datasets. I am interested in finding ways to use computational approaches to make this processes simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for _visualizing and automating the process of assembling phenotypic data_ for these traits from the literature, as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system. I have also been developing computational approaches for phenotyping complex 3D structures, like the brain. Traditional landmark placement involves several hours of work. Recently, semi-automated approaches have been developed for investigatin the shape of primate brains. I am using these methods for high-throughput landmarking of brains to understand how brain shape changes across radiations of birds:
+![](/img/phenotyping.png)*Automated generation of surface landmarks from CT scans*
+
+As an evolutionary biologist, I study measureable phenotypic traits. The ultimate goal is to build a database of all phenotypic traits (a phenome) for all organisms. I am interested in finding ways to use computational approaches to make phenome assembly simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for visualizing and automating phenome assembly from published datasets<!-- , as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system -->. I have also been developing computational approaches for phenotyping complex 3D structures, like the brain. Traditional landmark placement involves several hours of work. Semi-automated approaches recently developed for investigating brain shape in primates can be combined with high-throughput landmarking (manuscript in prep) to understand how brain shape changes across radiations of birds.
 
 <!-- ![](/img/ontology_ggnet.jpg)*Trait ontology used for understanding relationships among traits in a discrete morphological character matrix* -->
 
-![](/img/brainwarp_sm.gif)*Primary axis of phenotypic variation in the kingfisher brain*
-
+<!-- ![](/img/brainwarp_sm.gif)*Primary axis of phenotypic variation in the kingfisher brain* -->
 
 Relevant publications and presentations:
 
