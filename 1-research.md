@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Research
+title: Research Projects
 ---
+
+<img class="align right wp-image-38 size-thumbnail" src="/img/kingfisher.jpg" />
 
 I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. My approach to science involves 1) searching for novel phenotypes and non-model functional systems that may have eluded our attention and 2) using computational approaches to understand form-function relationships and evolutionary diversification of these complex traits. My research spans the fields of evolutionary morphology, paleontology, and functional morphology using the integument of birds (feathers and beaks) as a model system.
 

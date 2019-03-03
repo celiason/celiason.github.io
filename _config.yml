@@ -5,11 +5,15 @@ permalink:           pretty
 
 # Setup
 title:               Chad M. Eliason
-tagline:             'Bass Postdoctoral Fellow, Field Museum of Natural History'
+tagline:             'Postdoctoral Fellow, Field Museum of Natural History'
 description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
+
+# theme: "hyde"
+params:
+  themeColor: "theme-base-08"
 
 # Google services
 google_analytics: UA-85421317-1
@@ -17,7 +21,7 @@ google_analytics: UA-85421317-1
 # About/contact
 author:
   name:              Chad Eliason
-  url:               https://twitter.com/mdo
+  # url:               http://twitter.com/mdo
   email:             celiason@fieldmuseum.org
 
 # Custom vars
