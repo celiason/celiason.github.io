@@ -37,9 +37,7 @@ Relevant publications:
 
 ## Evolutionary morphology
 
-![](/img/halcyon_472753.PNG)*diceCT scan of a Blue-capped Kingfisher*
-
-<!-- ![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)* -->
+![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)*
 
 I use mathematical models to link form and function in complex traits. I study functional systems (including color-producing feathers and drag-reducing beaks) across length scales (from the nanoscale to macroscale), using both modern and fossil taxa. As an example of this approach, each layer of pigment granules (shown above in bird feathers) are able to reflect light. Certain wavelengths cancel each other out, while others arrive in phase at the viewer's eye. The wavelengths that arrive in phase contribute to the perceived color. Using optical models, I can calculate the theoretical colorspace and compare this to values I measure from bird specimens. Studies like this have enabled me to understand innovations in signal production (Eliason et al. 2012, 2013) and reconstruct color in deep time (Hue et al. 2018). Ultimately, this work will help me tackle the question of how complex morphological traits evolve.
 
@@ -61,6 +59,8 @@ Relevant publications:
 
 ![](/img/beak_phenograms.png)*Elevated beak diversity in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)*
 
+<!-- ![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)* -->
+
 Divergence in ecological traits by natural selection is a key step in the speciation process. However, divergence in nonecological traits by sexual selection can also be important for maintaining reproductive isolation between populations. Testing the relative rates of divergence in ecological and nonecological traits might shed light on the drivers of speciation. My background has prepared me to study complex traits with an array of techniques, including spectrophotometry, CT scanning, geometric morphometrics, phylogenetic comparative methods, and mathematical modeling. For my current postdoctoral work at the Field Museum, I am leveraging this expertise in studying the evolution of ecological and nonecological traits in kingfishers. Kingfishers are an ideal group for this work because they comprise a global radiation with variable plumage colors, beak shapes, and foraging behaviors (including the archetypal plunge-dive into water). Initial analyses indicate several independent gains of plunge-diving behavior in the group, distinct patterns of morphospace occupation for different foraging behaviors, and considerable rate variation among different skull regions (e.g., brains and beaks). Going forward, I will be integrating beak shape and plumage diversity to i) identify potential tradeoffs between these different trait systems and ii) evaluate the relative importance of signals and ecological trait divergence in species diversification. I anticipate these results will have implications for biomimetic design of novel drag-reducing structures and help to clarify the interacting roles of sexual and natural selection in trait diversification.
 
 <!-- Questions I am interested in:
@@ -77,7 +77,7 @@ Divergence in ecological traits by natural selection is a key step in the specia
 ## Computational phenomics
 <!-- ## Visualizing and processing phenomic data -->
 
-![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)*
+![](/img/halcyon_472753.PNG)*diceCT scan of a Blue-capped Kingfisher*
 
 <!-- ![](/img/phenotyping.png)*Automated generation of surface landmarks from CT scans* -->
 
