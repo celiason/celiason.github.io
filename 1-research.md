@@ -3,17 +3,9 @@ layout: page
 title: Research Projects
 ---
 
-<img class="align right wp-image-38 size-thumbnail" src="/img/kingfisher.jpg" />
-*Photo credit: Tyrone Lavery*
+![](/img/kingfisher.jpg)*Photo credit: Tyrone Lavery*
 
-I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. My approach to science involves 1) searching for novel phenotypes and non-model functional systems that may have eluded our attention and 2) using computational approaches to understand form-function relationships and evolutionary diversification of these complex traits. My research spans the fields of evolutionary morphology, paleontology, and functional morphology using the integument of birds (feathers and beaks) as a model system.
-
-Specifically, my research focuses on four main areas:
-
-1. Signal evolution
-2. Evolutionary morphology
-3. Species traits and speciation
-4. Computational phenomics
+I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. My approach to science involves searching for novel trait systems that are pervasive in nature but have eluded our attention and combining theoretical and empirical approaches in understanding the evolution of complex traits. My research spans the fields of evolutionary morphology, paleontology, and functional morphology using the integument of birds (feathers and beaks) as a model system. Specifically, my research focuses on four main areas:
 
 ---
 
@@ -23,7 +15,7 @@ Specifically, my research focuses on four main areas:
 <!-- ![](/img/tanagers2.jpg) -->
 <img src="/img/water_on_feather.jpg">
 
-Animals communicate in diverse ways (using chemicals, sounds, colors, touch). I am interested in understanding how these signals diversify by sexual selection. To tackle this question, I use multivariate comparative methods to understand how innovations in signal production relate to macroevolutionary patterns. As an example of this approach, my colleagues and I studied color evolution in dabbling ducks. This work revealed how a complex array of pigment granules within feathers can lead to rapid and independent evolution of different color traits in duck wing feathers (Eliason et al. 2015). Another avenue of my research looks at how non-signaling properties trade off with signalling properties of traits. The external surface of animals (integument) is the primary interface between an organism and its environment, and therefore environmental conditions might have an impact on other aspects of organisms. For example, the microstructure of feathers can influence both color and water repellency of feathers (Eliason and Shawkey 2011).
+Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. I am interested in understanding how such signals diversify by sexual selection. To tackle this question, I use multivariate comparative methods to understand how innovations in signal production relate to macroevolutionary patterns. As an example of this approach, my colleagues and I studied color evolution in dabbling ducks. This work revealed how a complex array of pigment granules within feathers can lead to rapid and independent evolution of different color traits in duck wing feathers (Eliason et al. 2015). Another avenue of my research looks at how non-signaling properties trade off with signalling properties of traits. The external surface of animals (integument) is the primary interface between an organism and its environment, and therefore environmental conditions might have an impact on other aspects of organisms. For example, the microstructure of feathers can influence both color and water repellency of feathers (Eliason and Shawkey 2011).
 
 Relevant publications:
 
@@ -37,7 +29,6 @@ Relevant publications:
 
 <!-- <img src="/img/banner1.jpg"> -->
 
-
 <!-- (among-species variation in feather hue within a single clade of dabbling ducks) -->
 
 ---
@@ -46,7 +37,9 @@ Relevant publications:
 
 ## Evolutionary morphology
 
-![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)*
+![](/img/halcyon_472753.png)*diceCT scan of a Blue-capped Kingfisher*
+
+<!-- ![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)* -->
 
 I use mathematical models to link form and function in complex traits. I study functional systems (including color-producing feathers and drag-reducing beaks) across length scales (from the nanoscale to macroscale), using both modern and fossil taxa. As an example of this approach, each layer of pigment granules (shown above in bird feathers) are able to reflect light. Certain wavelengths cancel each other out, while others arrive in phase at the viewer's eye. The wavelengths that arrive in phase contribute to the perceived color. Using optical models, I can calculate the theoretical colorspace and compare this to values I measure from bird specimens. Studies like this have enabled me to understand innovations in signal production (Eliason et al. 2012, 2013) and reconstruct color in deep time (Hue et al. 2018). Ultimately, this work will help me tackle the question of how complex morphological traits evolve.
 
@@ -66,9 +59,7 @@ Relevant publications:
 
 ## Species traits and speciation
 
-![](/img/beak_phenograms.png)*Beak diversity is higher in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)*
-
-<!-- ![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)* -->
+![](/img/beak_phenograms.png)*Elevated beak diversity in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)*
 
 Divergence in ecological traits by natural selection is a key step in the speciation process. However, divergence in nonecological traits by sexual selection can also be important for maintaining reproductive isolation between populations. Testing the relative rates of divergence in ecological and nonecological traits might shed light on the drivers of speciation. My background has prepared me to study complex traits with an array of techniques, including spectrophotometry, CT scanning, geometric morphometrics, phylogenetic comparative methods, and mathematical modeling. For my current postdoctoral work at the Field Museum, I am leveraging this expertise in studying the evolution of ecological and nonecological traits in kingfishers. Kingfishers are an ideal group for this work because they comprise a global radiation with variable plumage colors, beak shapes, and foraging behaviors (including the archetypal plunge-dive into water). Initial analyses indicate several independent gains of plunge-diving behavior in the group, distinct patterns of morphospace occupation for different foraging behaviors, and considerable rate variation among different skull regions (e.g., brains and beaks). Going forward, I will be integrating beak shape and plumage diversity to i) identify potential tradeoffs between these different trait systems and ii) evaluate the relative importance of signals and ecological trait divergence in species diversification. I anticipate these results will have implications for biomimetic design of novel drag-reducing structures and help to clarify the interacting roles of sexual and natural selection in trait diversification.
 
@@ -82,19 +73,23 @@ Divergence in ecological traits by natural selection is a key step in the specia
 ---
 
 <!-- ## Rapid phenotyping -->
-## Avian morphometrics
-<!-- ## Computational phenomics -->
+<!-- ## Avian morphometrics -->
+## Computational phenomics
 <!-- ## Visualizing and processing phenomic data -->
 
-<img class="align right wp-image-38 size-thumbnail" src="/img/halcyon_472753.png" />
+![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)*
 
 <!-- ![](/img/phenotyping.png)*Automated generation of surface landmarks from CT scans* -->
 
-As an evolutionary biologist, I study measureable phenotypic traits. A goal of evolutionary systematics is to tabulate all potential phenotypic traits for an organism (i.e. a phenome). I am interested in finding ways to use computational approaches to make phenome assembly simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for visualizing and automating phenome assembly from published datasets<!-- , as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system -->. I have also been developing computational approaches for phenotyping complex 3D structures, like the brain. Traditional landmark placement involves several hours of work. Semi-automated approaches recently developed for investigating brain shape in primates can be combined with high-throughput landmarking (manuscript in prep) to understand how brain shape changes across radiations of birds.
+<!-- TODO: add more on staining, soft tissue, etc. -->
+
+As an evolutionary biologist, I study measureable phenotypic traits. A goal of evolutionary systematics is to tabulate all potential phenotypic traits for an organism (i.e. a phenome). I am interested in finding ways to use computational approaches to make phenome assembly simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for visualizing and automating phenome assembly from published datasets<!-- , as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system -->. I have also been developing computational approaches for phenotyping complex 3-dimensional structures, like the brain. Traditional landmark placement involves several hours of work. Semi-automated approaches recently developed for investigating brain shape in primates can be combined with high-throughput landmarking (manuscript in prep) to understand how brain shape changes across radiations of birds.
 
 <!-- ![](/img/ontology_ggnet.jpg)*Trait ontology used for understanding relationships among traits in a discrete morphological character matrix* -->
 
-![](/img/brainwarp_sm.gif)*Major axis of variation in brain morphology in birds*
+Here is a visual representation of the "major axis" of brain variation in in birds:
+
+<img src="/img/brainwarp_sm.gif" style="margin: 0 auto">
 
 Relevant publications and presentations:
 
