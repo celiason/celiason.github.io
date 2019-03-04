@@ -47,8 +47,8 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  /*color: #313131;*/
-  color: #1495a4; /*change color of heads to match CV green*/
+  color: #313131;
+  /*/color: #1495a4; change color of heads to match CV green*/
   letter-spacing: -.025rem;
 }
 

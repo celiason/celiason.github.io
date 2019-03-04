@@ -13,7 +13,7 @@ I am broadly interested in understanding why some groups of organisms are more p
 
 <!-- ![](/img/tanagers.png) -->
 <!-- ![](/img/tanagers2.jpg) -->
-<img src="/img/water_on_feather.jpg">
+![](/img/water_on_feather.jpg)*Water droplet on an iridescent feather of a peacock-pheasant*
 
 Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. I am interested in understanding how such signals diversify by sexual selection. To tackle this question, I use multivariate comparative methods to understand how innovations in signal production relate to macroevolutionary patterns. As an example of this approach, my colleagues and I studied color evolution in dabbling ducks. This work revealed how a complex array of pigment granules within feathers can lead to rapid and independent evolution of different color traits in duck wing feathers (Eliason et al. 2015). Another avenue of my research looks at how non-signaling properties trade off with signalling properties of traits. The external surface of animals (integument) is the primary interface between an organism and its environment, and therefore environmental conditions might have an impact on other aspects of organisms. For example, the microstructure of feathers can influence both color and water repellency of feathers (Eliason and Shawkey 2011).
 
