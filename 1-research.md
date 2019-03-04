@@ -37,7 +37,7 @@ Relevant publications:
 
 ## Evolutionary morphology
 
-![](/img/halcyon_472753.png)*diceCT scan of a Blue-capped Kingfisher*
+![](/img/halcyon_472753.PNG)*diceCT scan of a Blue-capped Kingfisher*
 
 <!-- ![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)* -->
 
