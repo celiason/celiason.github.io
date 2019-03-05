@@ -4,7 +4,7 @@ permalink: index.html
 title: About Me
 ---
 
-<img class="align right wp-image-38 size-thumbnail" src="/img/me/DSC_0771.jpg" />
+<img class="align right wp-image-38 size-thumbnail" src="/img/me/DSC_0771_small.jpg" />
 
 <!-- i need to rethink this, spend more time on it -->
 
