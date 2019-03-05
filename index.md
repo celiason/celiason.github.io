@@ -4,11 +4,11 @@ permalink: index.html
 title: About Me
 ---
 
-<img class="align right wp-image-38 size-thumbnail" src="/img/IMG_7071.JPG" />
+<img class="align right wp-image-38 size-thumbnail" src="/img/me/DSC_0771.jpg" />
 
 <!-- i need to rethink this, spend more time on it -->
 
-I am an evolutionary biologist who uses a combination of mathematical modeling and experimental work, primarily in birds, to study how complex traits evolve.
+I am an evolutionary biologist using a combination of mathematical modeling and experimental work, primarily in birds, to study how complex traits evolve.
 
 Understanding why some groups of organisms are more diverse than others remains a key challenge in biology. I am particularly interested in how organisms use their traits in the environment (e.g., for display or catching prey) and how these traits respond to changes in the environment over short and long (evolutionary) timescales. My research tackles these questions using the integument (feathers and beaks) of birds as a model system. With this work, I hope to gain a better understanding of trait diversity in diverse species groups and be able to better predict how species respond to environmental change.
 
