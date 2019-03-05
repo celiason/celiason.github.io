@@ -5,22 +5,6 @@ title: Research Projects
 
 I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. <!-- Specifically, what are the molecular bases and functional constraints on the evolution of complex traits like bird beaks and feathers. --> My approach to science involves identifying novel trait systems that are pervasive in nature but have eluded our attention and studying these systems with both theoretical and empirical approaches. My research spans the fields of evolutionary morphology, paleontology, and functional morphology, using the integument of birds as a model system. Specifically, my research focuses on the following areas:
 
-<!-- 
-from David Toews website:
-    Genomic Divergence and the Consequences of Hybridization
-    Genetics of Coloration:
-
-    Empowered by findings of candidate feather coloration and patterning genes in warblers, we are beginning to understand the important genetic players that generate the amazing phenotypic diversity of birds. Our current focus is to better understand the genes involved in carotenoid processing. In most animals, carotenoids must be acquired from the environment and are not water-soluble and therefore require special transport to tissues for deposition. Unlike genes involved in melanin production, we know much less about the genetic basis of carotenoid coloration, and our research is trying to highlight them.
-
-    Sequencing Setophaga, a Rapid Avian Radiation
-    Mitochondrial Introgression
-    Migration in an Evolutionary Context
-    Hybridization in Suture Zones
-    Reproductive Isolation and Cryptic Diversity
-
- -->
-
-
 ---
 
 ## Evolutionary Biophotonics
