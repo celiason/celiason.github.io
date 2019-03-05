@@ -26,7 +26,7 @@ from David Toews website:
 ## Evolutionary Biophotonics
 <!-- ## Morphological Innovations of Feathers -->
 
-![](/img/compare_nanostructures.png)*Diversity of structural colors and "biophotonic" nanostructures in birds*
+![](/img/compare_nanostructures.png)*Diversity of structural colors and biophotonic nanostructures in birds*
 <!-- ![](/img/tanagers.png)*Color variation in tanagers* -->
 <!-- ![](/img/tanagers2.jpg) -->
 <!-- ![](/img/water_on_feather.jpg)*Water droplet on an iridescent feather of a peacock-pheasant* -->
