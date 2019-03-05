@@ -13,7 +13,6 @@ title: Publications
 
 __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf)
 
-
 ---
 
 ### 2018

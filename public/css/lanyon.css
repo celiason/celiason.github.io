@@ -47,8 +47,9 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
-  /*/color: #1495a4; change color of heads to match CV green*/
+  /*text-align: center;*/
+  /*color: #313131;*/
+  color: #1495a4; /*change color of headings to match CV green*/
   letter-spacing: -.025rem;
 }
 
@@ -463,6 +464,18 @@ a.pagination-item:hover {
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+
+/* CHAD GREEN */
+.theme-mygreen .sidebar,
+.theme-mygreen .sidebar-toggle:active,
+.theme-mygreen #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #1495a4;
+}
+.theme-mygreen .container a,
+.theme-mygreen .sidebar-toggle,
+.theme-mygreen .related-posts li a:hover {
+  color: #1495a4;
+}
 
 /* Red */
 .theme-base-08 .sidebar,

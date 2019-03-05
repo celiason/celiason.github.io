@@ -3,95 +3,124 @@ layout: page
 title: Research Projects
 ---
 
-![](/img/kingfisher.jpg)*Photo credit: Tyrone Lavery*
+I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. <!-- Specifically, what are the molecular bases and functional constraints on the evolution of complex traits like bird beaks and feathers. --> My approach to science involves identifying novel trait systems that are pervasive in nature but have eluded our attention and studying these systems with both theoretical and empirical approaches. My research spans the fields of evolutionary morphology, paleontology, and functional morphology, using the integument of birds as a model system. Specifically, my research focuses on the following areas:
 
-I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. My approach to science involves searching for novel trait systems that are pervasive in nature but have eluded our attention and combining theoretical and empirical approaches in understanding the evolution of complex traits. My research spans the fields of evolutionary morphology, paleontology, and functional morphology using the integument of birds (feathers and beaks) as a model system. Specifically, my research focuses on four main areas:
+<!-- 
+from David Toews website:
+    Genomic Divergence and the Consequences of Hybridization
+    Genetics of Coloration:
+
+    Empowered by findings of candidate feather coloration and patterning genes in warblers, we are beginning to understand the important genetic players that generate the amazing phenotypic diversity of birds. Our current focus is to better understand the genes involved in carotenoid processing. In most animals, carotenoids must be acquired from the environment and are not water-soluble and therefore require special transport to tissues for deposition. Unlike genes involved in melanin production, we know much less about the genetic basis of carotenoid coloration, and our research is trying to highlight them.
+
+    Sequencing Setophaga, a Rapid Avian Radiation
+    Mitochondrial Introgression
+    Migration in an Evolutionary Context
+    Hybridization in Suture Zones
+    Reproductive Isolation and Cryptic Diversity
+
+ -->
+
 
 ---
 
-## Signal evolution
+## Evolutionary Biophotonics
+<!-- ## Morphological Innovations of Feathers -->
 
-<!-- ![](/img/tanagers.png) -->
+![](/img/compare_nanostructures.png)*Diversity of structural colors and "biophotonic" nanostructures in birds*
+<!-- ![](/img/tanagers.png)*Color variation in tanagers* -->
 <!-- ![](/img/tanagers2.jpg) -->
-![](/img/water_on_feather.jpg)*Water droplet on an iridescent feather of a peacock-pheasant*
+<!-- ![](/img/water_on_feather.jpg)*Water droplet on an iridescent feather of a peacock-pheasant* -->
 
-Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. I am interested in understanding how such signals diversify by sexual selection. To tackle this question, I use multivariate comparative methods to understand how innovations in signal production relate to macroevolutionary patterns. As an example of this approach, my colleagues and I studied color evolution in dabbling ducks. This work revealed how a complex array of pigment granules within feathers can lead to rapid and independent evolution of different color traits in duck wing feathers (Eliason et al. 2015). Another avenue of my research looks at how non-signaling properties trade off with signalling properties of traits. The external surface of animals (integument) is the primary interface between an organism and its environment, and therefore environmental conditions might have an impact on other aspects of organisms. For example, the microstructure of feathers can influence both color and water repellency of feathers (Eliason and Shawkey 2011).
+Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. Structural colors are among the brightest and most diverse phenotypes in nature. Unlike typical pigment-based colors found in paints, structural colors are produced by scattering of light by feather tissues. My collaborators and I use mathematical models to study the optical processes in biological systems (biophotonics). As an example, here is a single simulation based on a stack of melanin rods (circles) based on the anatomy of the iridescent duck feather shown above:
+
+<img src="/img/meep_movie_slow.gif" style="margin: 0 auto">
+
+With this model in hand, we can then simulate theoretical colors and use comparative methods to understand how innovations in color production relate to macroevolutionary patterns. As an example of this approach, we studied color production and evolution in ducks. This work revealed how melanin structures within feathers lead to rapid evolution of coloration (Eliason et al. 2015).
 
 Relevant publications:
 
-* __Eliason CM__ and Clarke JA. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. In revision at _Biology Letters_.
-* Riede T, __Eliason CM__, Miller EH, Goller F, Clarke JA. 2016. Coos, booms, and hoots: the evolution of closed-mouth vocal behavior in birds. _Evolution_ 70:1734-1746. [[pdf]]({{url}}/pdfs/coos.pdf) [[doi]](http://dx.doi.org/10.1111/evo.12988)
-* __Eliason CM__, Shawkey MD, Clarke JA. 2016. Evolutionary shifts in the melanin-based color system of birds. _Evolution_ 70:445-455. [[pdf]]({{url}}/pdfs/melanin.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12855)
-* __Eliason CM__, Maia R, Shawkey MD. 2015. Modular color evolution in ducks facilitated by a complex nanostructure. _Evolution_ 69:357-367. [[pdf]]({{url}}/pdfs/modular.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12575)
-* __Eliason CM__, Shawkey MD. 2011. Decreased hydrophobicity of iridescent feathers: a potential cost of shiny plumage. _Journal of Experimental Biology_ 214:2157-2163. [[pdf]]({{url}}/pdfs/hydrophobicity.pdf) [[doi]](https://doi.org/10.1242/jeb.055822)
-* Shawkey MD, D'Alba L, Wozny J, __Eliason CM__, Koop JAH, Jia L. 2011. Structural color change following hydration and dehydration of iridescent mourning dove (Zenaida macroura) feathers. _Zoology (Jena)_ 114:59-68. [[pdf]]({{url}}/pdfs/modo.pdf) [[doi]](http://dx.doi.org/10.1016/j.zool.2010.11.001)
-* __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18:21284-92. [[pdf]]({{url}}/pdfs/rapid.pdf) [[doi]](https://doi.org/10.1364/OE.18.021284)
-
-<!-- <img src="/img/banner1.jpg"> -->
-
-<!-- (among-species variation in feather hue within a single clade of dabbling ducks) -->
-
----
-
-<!-- ## Comparative biophotonics -->
-
-## Evolutionary morphology
-
-![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)*
-
-I use mathematical models to link form and function in complex traits. I study functional systems (including color-producing feathers and drag-reducing beaks) across length scales (from the nanoscale to macroscale), using both modern and fossil taxa. As an example of this approach, each layer of pigment granules (shown above in bird feathers) are able to reflect light. Certain wavelengths cancel each other out, while others arrive in phase at the viewer's eye. The wavelengths that arrive in phase contribute to the perceived color. Using optical models, I can calculate the theoretical colorspace and compare this to values I measure from bird specimens. Studies like this have enabled me to understand innovations in signal production (Eliason et al. 2012, 2013) and reconstruct color in deep time (Hue et al. 2018). Ultimately, this work will help me tackle the question of how complex morphological traits evolve.
-
-<!-- ![](/img/flowlines.png)*Computational model of the way water moves over the body of a bird* -->
-
-Relevant publications:
-
-* Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9.
-* __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. _Proceedings of the Royal Society B_ 284:20170556. [[pdf]]({{url}}/pdfs/lagerstatten.pdf) [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556)
-* Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf) [[doi]](http://dx.doi.org/10.1111/bij.12810)
 * __Eliason CM__, Maia R, Shawkey MD. 2015. Modular color evolution in ducks facilitated by a complex nanostructure. _Evolution_ 69:357-367. [[pdf]]({{url}}/pdfs/modular.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12575)
 * __Eliason CM__, Shawkey MD. 2014. Antireflection-enhanced color by a natural graded refracting index (GRIN) structure. _Optics Express_ 22:A642-A650. [[pdf]]({{url}}/pdfs/antireflection.pdf) [[doi]](https://doi.org/10.1364/OE.22.00A642)
 * __Eliason CM__, Bitton, P-P, Shawkey MD. 2013. How hollow melanosomes affect iridescent colour production in birds. _Proceedings of the Royal Society: B_ 280:20131505. [[pdf]]({{url}}/pdfs/hollow.pdf) [[doi]](http://doi.org/10.1098/rspb.2013.1505)
 * __Eliason CM__, Shawkey MD. 2012. A photonic heterostructure produces diverse iridescent colours in duck wing patches. _Journal of the Royal Society Interface_ 9(74):2279-2289. [[pdf]]({{url}}/pdfs/heterostructure.pdf) [[doi]](https://doi.org/10.1098/rsif.2012.0118)
+* __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18:21284-92. [[pdf]]({{url}}/pdfs/rapid.pdf) [[doi]](https://doi.org/10.1364/OE.18.021284)
 
 ---
 
-## Species traits and speciation
+## Feather Evolution in Birds and Dinosaurs
+<!-- (weak point? More of a subset of my work..but people think cool, I’ll have a few more papers coming out with julia, put red paper here, morphology and coloration...nsf grant planned) -->
 
-![](/img/beak_phenograms.png)*Elevated beak diversity in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)*
+![](/img/kingfisher.jpg)*Photo credit: Tyrone Lavery*
 
-<!-- ![](/img/FMNHskullplot.png)*Cranial diversity in kingfishers (CT scans from specimens at the Field Museum of Natural History)* -->
+<!-- ![](/img/caihong_melanos.png)*Fossilized melanosomes from the feathers of a 160-million year-old dinosaur from China (top row) compared to melanosomes found in feathers of modern birds (bottom row)* -->
 
-Divergence in ecological traits by natural selection is a key step in the speciation process. However, divergence in nonecological traits by sexual selection can also be important for maintaining reproductive isolation between populations. Testing the relative rates of divergence in ecological and nonecological traits might shed light on the drivers of speciation. My background has prepared me to study complex traits with an array of techniques, including spectrophotometry, CT scanning, geometric morphometrics, phylogenetic comparative methods, and mathematical modeling. For my current postdoctoral work at the Field Museum, I am leveraging this expertise in studying the evolution of ecological and nonecological traits in kingfishers. Kingfishers are an ideal group for this work because they comprise a global radiation with variable plumage colors, beak shapes, and foraging behaviors (including the archetypal plunge-dive into water). Initial analyses indicate several independent gains of plunge-diving behavior in the group, distinct patterns of morphospace occupation for different foraging behaviors, and considerable rate variation among different skull regions (e.g., brains and beaks). Going forward, I will be integrating beak shape and plumage diversity to i) identify potential tradeoffs between these different trait systems and ii) evaluate the relative importance of signals and ecological trait divergence in species diversification. I anticipate these results will have implications for biomimetic design of novel drag-reducing structures and help to clarify the interacting roles of sexual and natural selection in trait diversification.
+Birds are the last living relatives of extinct dinosaurs. A striking feature of modern birds is their feathers. Recent work shows that many extinct dinosaurs had feathers similar to those found in modern birds. _Why did feathers evolve?_ As the interface between a bird and its environment, feathers have evolved to serve multiple functions in the daily lives of birds. One avenue of my research looks at how optimization of one function might affect other functions, such as color. For example, we found that feather microstructure influences both the color and the water repellency of feathers. This might tell us about the cost of bright color patches, but to tackle questions such as _When did feathers evolve?_ or _How do overall plumage patterns evolve?_ we study color patterns and feather anatomy in fossil taxa and using novel tools for studying complex trait evolution (Eliason et al. 2019). <!-- More on shape and color... Going forward, I will be integrating beak shape and plumage diversity to i) identify potential tradeoffs between these different trait systems and ii) evaluate the relative importance of signals and ecological trait divergence in species diversification. I anticipate these results will have implications for biomimetic design of novel drag-reducing structures and help to clarify the interacting roles of sexual and natural selection in trait diversification. -->
 
-<!-- Questions I am interested in:
+Relevant publications:
 
-* signaling systems and genomics/combining molecules and morphology to understand sensory system evolution
-* macroecology/dispersal/wing shape
-* beak ecomorphology, wing shape/dispersal, macroecology
+* __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf)
+* __Eliason CM__ and Clarke JA. 2018. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. _Proceedings B_ 285:20182014.
+* Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9.
+* __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. _Proceedings of the Royal Society B_ 284:20170556. [[pdf]]({{url}}/pdfs/lagerstatten.pdf) [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556)
+* __Eliason CM__, Shawkey MD, Clarke JA. 2016. Evolutionary shifts in the melanin-based color system of birds. _Evolution_ 70:445-455. [[pdf]]({{url}}/pdfs/melanin.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12855)
+* Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf) [[doi]](http://dx.doi.org/10.1111/bij.12810)
+* __Eliason CM__, Shawkey MD. 2011. Decreased hydrophobicity of iridescent feathers: a potential cost of shiny plumage. _Journal of Experimental Biology_ 214:2157-2163. [[pdf]]({{url}}/pdfs/hydrophobicity.pdf) [[doi]](https://doi.org/10.1242/jeb.055822)
+
+
+---
+
+
+<!-- 
+## Selection and Constraint <!-- ?ecological and nonecological diversification? Novel tools for studying complex trait evolution? - plumage paper goes here, what else?
+
+Divergence in ecological traits by natural selection is a key step in the speciation process. However, divergence in nonecological traits by sexual selection can also be important for maintaining reproductive isolation between populations. Testing the relative rates of divergence in ecological and nonecological traits might shed light on the drivers of speciation.
+
+For my current work, I am studying the evolution of ecological and nonecological traits in kingfishers. Kingfishers are an ideal group because they are globally distributed, and they have diverse colors, beaks, and feeding behaviors--including the archetypal plunge-dive into water.
+
+
+Relevant publications:
+
+---
  -->
 
+
+## Comparative Biomechanics in Plunge-Diving Birds
+<!-- ## Evolutionary Morphology -->
+
+![](/img/flowlines.png)*Computational fluid dynamics simulation of water movement over a bird's body*
+
+Foraging innovations can drive morphological diversity by opening up new ways of interacting with the environment, or limit diversity through functional constraints associated with different foraging behaviors. Several classic examples of adaptive radiations in birds show increased variation in ecologically relevant traits. These examples often focus on geographically narrow adaptive radiations (Darwin’s finches) or consider only morphological evolution without a biomechanical approach. Considering how morphology relates to function is crucial for understanding morphological diversification. Kingfishers comprise a global radiation of birds with diverse ecologies and foraging behaviors, including the archetypal plunge-dive into water. Diving into water can be a strong, yet underappreciated, selective agent on body streamlining. My work uses CT scanning, computational fluid dynamics, and multivariate comparative methods to understand the relationships among behavioral, morphological, and functional diversity in the global radiation of kingfishers.
+
+Relevant publications: _Stay Tuned!_
+
 ---
 
+## Phenotypic <!-- Neuroanatomical? Sensory? -->Evolution During a Rapid Avian Radiation <!-- (genomics here, with Shannon and Mike) -->
+<!-- ## Species Traits and Speciation -->
 <!-- ## Rapid phenotyping -->
 <!-- ## Avian morphometrics -->
-## Computational phenomics
-<!-- ## Visualizing and processing phenomic data -->
+<!-- ## Computational Phenomics -->
+<!-- ## Neuroanatomical Evolution During Rapid Radiations -->
+<!-- ## Visualizing Phenomic Datasets -->
 
 ![](/img/halcyon_472753.PNG)*diceCT scan of a Blue-capped Kingfisher*
-
+<!-- ![](/img/beak_phenograms.png)*Elevated beak diversity in Australian kingfisher communities (orange) compared to communities in Sub-Saharan Africa (green)* -->
+<!-- ![](/img/FMNHskullplot.png)*CT scans of kingfishers at the Field Museum* -->
 <!-- ![](/img/phenotyping.png)*Automated generation of surface landmarks from CT scans* -->
 
 <!-- TODO: add more on staining, soft tissue, etc. -->
 
-As an evolutionary biologist, I study measureable phenotypic traits. A goal of evolutionary systematics is to tabulate all potential phenotypic traits for an organism (i.e. a phenome). I am interested in finding ways to use computational approaches to make phenome assembly simpler and faster. I recently worked on a project exploring morphological evolution in palaeognaths. Recent molecular evidence shows that flight was lost repeatedly, at least 6 times, in the large-bodied, flightless birds known as ratites (including the ostrich, emu and largest bird that ever lived, the elephant bird). I am currently working on developing methods for visualizing and automating phenome assembly from published datasets<!-- , as well as understanding _how convergent evolution works_ using flightless palaeognaths as a model system -->. I have also been developing computational approaches for phenotyping complex 3-dimensional structures, like the brain. Traditional landmark placement involves several hours of work. Semi-automated approaches recently developed for investigating brain shape in primates can be combined with high-throughput landmarking (manuscript in prep) to understand how brain shape changes across radiations of birds.
-
-<!-- ![](/img/ontology_ggnet.jpg)*Trait ontology used for understanding relationships among traits in a discrete morphological character matrix* -->
-
-Here is a visual representation of the "major axis" of brain variation in in birds:
+Repeated evolutionary radiations are a hallmark of birds. Adaptive radiations are predicted to be accompanied by accelerated trait evolution. Most previous work on adaptive radiations in birds has been focused on observable, external morphology of birds, such as the beak. Studying internal morphology may be critical for understanding processes underlying evolutionary radiation. Recent technological advances have enabled the fast (and cheap) sequencing of genomes for whole clades of birds. We are interested in the analog<!-- does this make sense? -->--developing tools for rapidly assembling phenotypic datasets. <!-- We are currently working on developing methods for visualizing and automating phenome assembly from published datasets, as well as novel approaches for extracting quantiative trait data from CT scans. Traditional CT segmentation involves several hours of work, therefore semi-automated approaches combined with high-throughput landmarking (manuscript in prep) to understand how brain shape changes across radiations of birds. --> As an example, here is a visual representation of the "major axis" of brain variation in kingfishers based on semi-automated extraction of landmarks:
 
 <img src="/img/brainwarp_sm.gif" style="margin: 0 auto">
 
 Relevant publications and presentations:
 
-* __Eliason CM__, Clarke JA. Pipelines and methods for visualization and analysis of phenomic data. Society for the Study of Evolution annual conference. Austin, TX. June 17 - 21, 2016. [[poster]](/img/phenome_poster.jpg) (manuscript currently in prep)
+* __Eliason CM__, Clarke JA. Pipelines and methods for visualization and analysis of phenomic data. Society for the Study of Evolution annual conference. Austin, TX. June 17 - 21, 2016. [[poster]](/img/phenome_poster.jpg) (manuscript currently in revisions)
 * Maia R, __Eliason CM__, Bitton, P-P, Doucet SM, Shawkey MD. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. _Methods in Ecology and Evolution_ 4:906-913. [[pdf]]({{url}}/pdfs/pavo.pdf) [[doi]](https://doi.org/10.1111/2041-210X.12069)
+
+## Comparative Genomics of Sensory Systems
+
+We recently sequenced a high quality reference genome of a collared kingfisher. We are now interested in identifying the genomic basis of variable phenotypes across many species in the family and quantifying the evolutionary patterns across the kingfisher radiation. Powerful new approaches for combining genomes and phenomes will be used to shed light on the evolutionary processes underlying trait evolution.
+
+Relevant publications: _Stay Tuned!_
