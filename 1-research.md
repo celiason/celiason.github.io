@@ -68,7 +68,7 @@ Relevant publications:
  -->
 
 
-## Comparative Biomechanics in Plunge-Diving Birds
+## Comparative Biomechanics of Plunge-Diving Birds
 <!-- ## Evolutionary Morphology -->
 
 ![](/img/flowlines.png)*Computational fluid dynamics simulation of water movement over a bird's body*
