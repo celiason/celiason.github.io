@@ -15,7 +15,7 @@ I am broadly interested in understanding why some groups of organisms are more p
 <!-- ![](/img/tanagers2.jpg) -->
 <!-- ![](/img/water_on_feather.jpg)*Water droplet on an iridescent feather of a peacock-pheasant* -->
 
-Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. Structural colors are among the brightest and most diverse phenotypes in nature. Unlike typical pigment-based colors found in paints, structural colors are produced by scattering of light by feather tissues. My collaborators and I use mathematical models to study the optical processes in biological systems (biophotonics). As an example, here is a single simulation based on a stack of melanin rods (circles) based on the anatomy of the iridescent duck feather shown above:
+Animals communicate in diverse ways–using chemicals, sounds, colors, and touch. Structural colors are among the brightest and most diverse phenotypes in nature. Unlike pigment-based colors, structural colors are produced by scattering of light by feather tissues. My collaborators and I use mathematical models to study the optical processes in biological systems (biophotonics). As an example, here is a single simulation based on a stack of melanin rods (circles) based on the anatomy of the iridescent duck feather shown above:
 
 <img src="/img/meep_movie_slow.gif" style="margin: 0 auto">
 
