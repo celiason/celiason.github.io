@@ -31,7 +31,7 @@ Relevant publications:
 
 ---
 
-## Feather Evolution in Birds and Dinosaurs
+## Feather Evolution
 <!-- (weak point? More of a subset of my work..but people think cool, I’ll have a few more papers coming out with julia, put red paper here, morphology and coloration...nsf grant planned) -->
 
 ![](/img/kingfisher.jpg)*Photo credit: Tyrone Lavery*
