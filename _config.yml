@@ -39,3 +39,6 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+plugins:
+  - jekyll-seo-tag
