@@ -9,7 +9,16 @@ title: Publications
 
 ---
 
+### 2020
+
+__Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). _Evolution_. [[pdf]]({{url}}/pdfs/hummingbirds.pdf)
+
+
+---
+
 ### 2019
+
+
 
 __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf)
 
