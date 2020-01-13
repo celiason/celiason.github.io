@@ -18,7 +18,7 @@ __Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphol
 
 ### 2019
 
-
+__Eliason CM__, Edwards SV, Clarke JA. 2019. phenotools: An r package for visualizing and analysing phenomic datasets. _Methods Ecol Evol._ 10, 1393–1400.
 
 __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf)
 
