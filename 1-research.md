@@ -23,11 +23,12 @@ With this model in hand, we can then simulate theoretical colors and use compara
 
 Relevant publications:
 
+* __Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). _Evolution_. [[pdf]]({{url}}/pdfs/hummingbirds.pdf)
 * __Eliason CM__, Maia R, Shawkey MD. 2015. Modular color evolution in ducks facilitated by a complex nanostructure. _Evolution_ 69:357-367. [[pdf]]({{url}}/pdfs/modular.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12575)
-* __Eliason CM__, Shawkey MD. 2014. Antireflection-enhanced color by a natural graded refracting index (GRIN) structure. _Optics Express_ 22:A642-A650. [[pdf]]({{url}}/pdfs/antireflection.pdf) [[doi]](https://doi.org/10.1364/OE.22.00A642)
+<!-- * __Eliason CM__, Shawkey MD. 2014. Antireflection-enhanced color by a natural graded refracting index (GRIN) structure. _Optics Express_ 22:A642-A650. [[pdf]]({{url}}/pdfs/antireflection.pdf) [[doi]](https://doi.org/10.1364/OE.22.00A642) -->
 * __Eliason CM__, Bitton, P-P, Shawkey MD. 2013. How hollow melanosomes affect iridescent colour production in birds. _Proceedings of the Royal Society: B_ 280:20131505. [[pdf]]({{url}}/pdfs/hollow.pdf) [[doi]](http://doi.org/10.1098/rspb.2013.1505)
-* __Eliason CM__, Shawkey MD. 2012. A photonic heterostructure produces diverse iridescent colours in duck wing patches. _Journal of the Royal Society Interface_ 9(74):2279-2289. [[pdf]]({{url}}/pdfs/heterostructure.pdf) [[doi]](https://doi.org/10.1098/rsif.2012.0118)
-* __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18:21284-92. [[pdf]]({{url}}/pdfs/rapid.pdf) [[doi]](https://doi.org/10.1364/OE.18.021284)
+<!-- * __Eliason CM__, Shawkey MD. 2012. A photonic heterostructure produces diverse iridescent colours in duck wing patches. _Journal of the Royal Society Interface_ 9(74):2279-2289. [[pdf]]({{url}}/pdfs/heterostructure.pdf) [[doi]](https://doi.org/10.1098/rsif.2012.0118) -->
+<!-- * __Eliason CM__, Shawkey MD. 2010. Rapid, reversible response of iridescent feather color to ambient humidity. _Optics Express_ 18:21284-92. [[pdf]]({{url}}/pdfs/rapid.pdf) [[doi]](https://doi.org/10.1364/OE.18.021284) -->
 
 ---
 
@@ -42,13 +43,14 @@ Birds are the last living relatives of extinct dinosaurs. A striking feature of 
 
 Relevant publications:
 
-* __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf)
-* __Eliason CM__ and Clarke JA. 2018. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. _Proceedings B_ 285:20182014.
+* __Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187.
+<!-- * __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. In Press at _Systematic Biology_. [[pdf]]({{url}}/pdfs/plumage.pdf) -->
+<!-- * __Eliason CM__ and Clarke JA. 2018. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. _Proceedings B_ 285:20182014. -->
 * Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9.
 * __Eliason CM__, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. _Proceedings of the Royal Society B_ 284:20170556. [[pdf]]({{url}}/pdfs/lagerstatten.pdf) [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556)
-* __Eliason CM__, Shawkey MD, Clarke JA. 2016. Evolutionary shifts in the melanin-based color system of birds. _Evolution_ 70:445-455. [[pdf]]({{url}}/pdfs/melanin.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12855)
-* Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf) [[doi]](http://dx.doi.org/10.1111/bij.12810)
-* __Eliason CM__, Shawkey MD. 2011. Decreased hydrophobicity of iridescent feathers: a potential cost of shiny plumage. _Journal of Experimental Biology_ 214:2157-2163. [[pdf]]({{url}}/pdfs/hydrophobicity.pdf) [[doi]](https://doi.org/10.1242/jeb.055822)
+<!-- * __Eliason CM__, Shawkey MD, Clarke JA. 2016. Evolutionary shifts in the melanin-based color system of birds. _Evolution_ 70:445-455. [[pdf]]({{url}}/pdfs/melanin.pdf) [[doi]](https://dx.doi.org/10.1111/evo.12855) -->
+<!-- * Iskandar J-P*, __Eliason CM__, Astrop T, Igic B, Maia R, Shawkey MD. 2016. Morphological basis of glossy red plumage colors. _Biological Journal of the Linnaean Society_ 119:477-487. [[pdf]]({{url}}/pdfs/shiny.pdf) [[doi]](http://dx.doi.org/10.1111/bij.12810) -->
+<!-- * __Eliason CM__, Shawkey MD. 2011. Decreased hydrophobicity of iridescent feathers: a potential cost of shiny plumage. _Journal of Experimental Biology_ 214:2157-2163. [[pdf]]({{url}}/pdfs/hydrophobicity.pdf) [[doi]](https://doi.org/10.1242/jeb.055822) -->
 
 
 ---
@@ -75,7 +77,11 @@ Relevant publications:
 
 Foraging innovations can drive morphological diversity by opening up new ways of interacting with the environment, or limit diversity through functional constraints associated with different foraging behaviors. Several classic examples of adaptive radiations in birds show increased variation in ecologically relevant traits. These examples often focus on geographically narrow adaptive radiations (Darwin’s finches) or consider only morphological evolution without a biomechanical approach. Considering how morphology relates to function is crucial for understanding morphological diversification. Kingfishers comprise a global radiation of birds with diverse ecologies and foraging behaviors, including the archetypal plunge-dive into water. Diving into water can be a strong, yet underappreciated, selective agent on body streamlining. My work uses CT scanning, computational fluid dynamics, and multivariate comparative methods to understand the relationships among behavioral, morphological, and functional diversity in the global radiation of kingfishers.
 
-Relevant publications: _Stay Tuned!_
+Relevant publications:
+
+* __Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. In press at _Evolution_.
+
+<!-- _Stay Tuned!_ -->
 
 ---
 
