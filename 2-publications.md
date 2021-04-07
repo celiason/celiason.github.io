@@ -9,6 +9,12 @@ title: Publications
 
 ---
 
+### 2021
+
+__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. In press. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_.
+
+---
+
 ### 2020
 
 __Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. In press at _Evolution_.
