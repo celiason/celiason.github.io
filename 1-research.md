@@ -113,4 +113,7 @@ Relevant publications and presentations:
 
 We recently sequenced a high quality reference genome of a collared kingfisher. We are now interested in identifying the genomic basis of variable phenotypes across many species in the family and quantifying the evolutionary patterns across the kingfisher radiation. Powerful new approaches for combining genomes and phenomes will be used to shed light on the evolutionary processes underlying trait evolution.
 
-Relevant publications: _Stay Tuned!_
+Relevant publications:
+
+* __Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at G3: Genes, Genomes, Genetics.
+
