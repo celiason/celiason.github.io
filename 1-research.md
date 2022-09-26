@@ -80,6 +80,7 @@ Foraging innovations can drive morphological diversity by opening up new ways of
 Relevant publications:
 
 * __Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. In press at _Evolution_.
+* __Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5).
 
 <!-- _Stay Tuned!_ -->
 
