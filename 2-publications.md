@@ -9,7 +9,7 @@ title: Publications
 
 ### 2022
 
-
+__Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at _G3: Genes, Genomes, Genetics_.
 
 ---
 
