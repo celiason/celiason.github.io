@@ -25,13 +25,13 @@ __Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report:
 
 Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_ [[doi]](https://doi.org/10.7554/eLife.71179).
 
-__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5).
+__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5) [[doi]](https://doi.org/10.1086/713664)
 
 ---
 
 ### 2020
 
-__Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. _Evolution_ 74(7): 1514-1524.
+__Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. _Evolution_ 74(7): 1514-1524 [[doi]](https://doi.org/10.1111/evo.14024).
 
 __Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187 [[doi]](https://doi.org/10.1126/sciadv.aba0187).
 
@@ -51,15 +51,15 @@ __Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography mod
 
 ### 2018
 
-__Eliason CM__. 2018. How do complex signals evolve? _PLOS Biology_ 16(12): e3000093.
+__Eliason CM__. 2018. How do complex signals evolve? _PLOS Biology_ 16(12): e3000093 [[doi]](https://doi.org/10.1371/journal.pbio.3000093).
 
-__Eliason CM__ and Clarke JA. 2018. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. _Proceedings B_ 285: 20182014.
+__Eliason CM__ and Clarke JA. 2018. Metabolic physiology explains macroevolutionary trends in the melanic color system across amniotes. _Proceedings B_ 285: 20182014 [[doi]](https://doi.org/10.1098/rspb.2018.2014).
 
-Kingsley EP, __Eliason CM__ (contributed equally), Riede T, Li Z, Hiscock TW, Farnsworth M, Thomson SL, Goller F, Tabin CJ, Clarke JA. 2018. Identity and novelty in the avian syrinx. _PNAS_ 115(41): 10209-10217.
+Kingsley EP, __Eliason CM__ (contributed equally), Riede T, Li Z, Hiscock TW, Farnsworth M, Thomson SL, Goller F, Tabin CJ, Clarke JA. 2018. Identity and novelty in the avian syrinx. _PNAS_ 115(41): 10209-10217 [[doi]](https://doi.org/10.1073/pnas.1804586115).
 
-Li Z, Clarke JA, __Eliason CM__, Stidham TA, Deng T, Zhou Z. 2018. Vocal specialization through tracheal elongation in an extinct Miocene pheasant from China. _Scientific Reports_.
+Li Z, Clarke JA, __Eliason CM__, Stidham TA, Deng T, Zhou Z. 2018. Vocal specialization through tracheal elongation in an extinct Miocene pheasant from China. _Scientific Reports_ [[doi]](https://doi.org/10.1038/s41598-018-26178-x).
 
-Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9.
+Dongyu H, Clarke JA, __Eliason CM__, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jiang J, Xu X. 2018. A bony-crested Jurassic dinosaur with iridescent plumage highlights complexity in early paravian evolution. _Nature Communications_ 9 [[doi]](https://doi.org/10.1038/s41467-017-02515-y).
 
 ---
 
