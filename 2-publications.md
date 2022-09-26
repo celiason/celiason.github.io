@@ -23,13 +23,15 @@ __Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report:
 
 ### 2021
 
-__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. In press. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_.
+Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_.
+
+__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5).
 
 ---
 
 ### 2020
 
-__Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. In press at _Evolution_.
+__Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. In press at _Evolution_ 74(7): 1514-1524.
 
 __Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187.
 

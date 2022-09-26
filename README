@@ -5,5 +5,8 @@
 # then-
 bundle exec jekyll serve
 
+gem install commonmarker -v '0.17.13' --source 'https://rubygems.org/'
+
 # to run locally, then point web browser to http://localhost:4000
 
+#curl -sSL https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer | bash -s stable
