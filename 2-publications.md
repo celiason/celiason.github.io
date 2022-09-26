@@ -23,9 +23,9 @@ __Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report:
 
 ### 2021
 
-Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_ [doi](https://doi.org/10.7554/eLife.71179).
+Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_ [[doi]](https://doi.org/10.7554/eLife.71179).
 
-__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5) [doi](https://doi.org/10.1086/713664)
+__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5) [[doi]](https://doi.org/10.1086/713664)
 
 ---
 
@@ -33,11 +33,11 @@ __Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain s
 
 __Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. _Evolution_ 74(7): 1514-1524 [[doi]](https://doi.org/10.1111/evo.14024).
 
-__Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187 [doi](https://doi.org/10.1126/sciadv.aba0187).
+__Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187 [[doi]](https://doi.org/10.1126/sciadv.aba0187).
 
 ![](img/sciadv_cover.gif)
 
-__Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). _Evolution_. [pdf]({{url}}/pdfs/hummingbirds.pdf)
+__Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). _Evolution_. [[doi]](https://doi.org/10.1111/evo.13893) [[pdf]]({{url}}/pdfs/hummingbirds.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ __Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphol
 
 __Eliason CM__, Edwards SV, Clarke JA. 2019. phenotools: An r package for visualizing and analysing phenomic datasets. _Methods Ecol Evol._ 10: 1393–1400 [[doi]](https://doi.org/10.1111/2041-210X.13217).
 
-__Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. _Systematic Biology_ 68: 755-766. [doi](https://doi.org/10.1093/sysbio/syz012) [pdf]({{url}}/pdfs/plumage.pdf)
+__Eliason CM__, Andersen MJ, Hackett SJ. 2019. Using historical biogeography models to understand color pattern evolution. _Systematic Biology_ 68: 755-766. [[doi]](https://doi.org/10.1093/sysbio/syz012) [[pdf]]({{url}}/pdfs/plumage.pdf)
 
 ---
 
