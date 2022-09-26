@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Research
 ---
 
 I am broadly interested in understanding why some groups of organisms are more phenotypically diverse than others. <!-- Specifically, what are the molecular bases and functional constraints on the evolution of complex traits like bird beaks and feathers. --> My approach to science involves identifying novel trait systems that are pervasive in nature but have eluded our attention and studying these systems with both theoretical and empirical approaches. My research spans the fields of evolutionary morphology, paleontology, and functional morphology, using the integument of birds as a model system. Specifically, my research focuses on the following areas:
