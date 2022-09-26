@@ -86,7 +86,7 @@ Relevant publications:
 
 ---
 
-## Phenotypic <!-- Neuroanatomical? Sensory? -->Evolution During Rapid Avian Radiations <!-- (genomics here, with Shannon and Mike) -->
+## Phenotypic <!-- Neuroanatomical? Sensory? -->Evolution During Rapid Avian Radiations
 <!-- ## Species Traits and Speciation -->
 <!-- ## Rapid phenotyping -->
 <!-- ## Avian morphometrics -->
