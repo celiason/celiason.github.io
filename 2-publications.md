@@ -23,7 +23,7 @@ __Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report:
 
 ### 2021
 
-Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_.
+Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_ [[doi]](https://doi.org/10.7554/eLife.71179).
 
 __Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5).
 
