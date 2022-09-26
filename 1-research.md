@@ -113,7 +113,7 @@ Relevant publications and presentations:
 
 ## Comparative Genomics of Sensory Systems
 
-<img src="/img/synteny.png" style="margin: 0 auto">
+<img src="/img/synteny.png" style="margin: 0 auto" width="300" height="300">
 
 We recently sequenced a high quality reference genome of a collared kingfisher. We are now interested in identifying the genomic basis of variable phenotypes across many species in the family and quantifying the evolutionary patterns across the kingfisher radiation. Powerful new approaches for combining genomes and phenomes will be used to shed light on the evolutionary processes underlying trait evolution.
 
