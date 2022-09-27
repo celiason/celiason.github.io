@@ -7,7 +7,7 @@ title: Publications
 
 ## Submitted
 
-__Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review at _eLife_. [[bioarxiv]](https://doi.org/10.1101/2022.09.26.509475)
+__Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
 <!--
 __Eliason CM__, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions at _Evolution_.
