@@ -5,11 +5,11 @@ title: Publications
 
 ([Google Scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [Academia.edu](http://utexas.academia.edu/ChadEliason), [ResearchGate](https://www.researchgate.net/profile/Chad_Eliason))
 
-<!-- ## Published or in press -->
-
-### Submitted
+## Submitted
 
 __Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review at _eLife_. [[doi]](https://doi.org/10.1101/2022.09.26.509475)
+
+## Published or in press
 
 ### 2022
 
