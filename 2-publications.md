@@ -7,35 +7,35 @@ title: Publications
 
 ## Forthcoming
 
-__Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
+Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
-__Eliason CM__, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions.
+Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions.
 
-__Eliason CM__, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions.
+Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions.
 
-__Eliason CM__, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In revisions.
+Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In revisions.
 
 ## Published or in press
 
 ### 2022
 
-__Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at _G3: Genes, Genomes, Genetics_. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
+Eliason CM, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at __G3: Genes, Genomes, Genetics__. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
 
 ---
 
 ### 2021
 
-Norden KK, __Eliason CM__, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. _eLife_. [[doi]](https://doi.org/10.7554/eLife.71179)
+Norden KK, Eliason CM, Stoddard MC. 2021. Evolution of brilliant iridescent feather nanostructures. __eLife__. [[doi]](https://doi.org/10.7554/eLife.71179)
 
-__Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5). [[doi]](https://doi.org/10.1086/713664)
+Eliason CM, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. __The American Naturalist__ 197(5). [[doi]](https://doi.org/10.1086/713664)
 
 ---
 
 ### 2020
 
-__Eliason CM__, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. _Evolution_ 74(7): 1514-1524. [[doi]](https://doi.org/10.1111/evo.14024)
+Eliason CM, Straker L, Jung S, Hackett SJ. Morphological innovation and biomechanical diversity in plunge-diving birds. __Evolution__ 74(7): 1514-1524. [[doi]](https://doi.org/10.1111/evo.14024)
 
-__Eliason CM__, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. _Science Advances_ 6(20): eeba0187. [[doi]](https://doi.org/10.1126/sciadv.aba0187)
+Eliason CM, Clarke JA. 2020. Cassowary gloss and a novel form of structural color in birds. __Science Advances__ 6(20): eeba0187. [[doi]](https://doi.org/10.1126/sciadv.aba0187)
 
 ![](img/sciadv_cover.gif)
 
