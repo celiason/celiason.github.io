@@ -86,7 +86,7 @@ Relevant publications:
 
 ---
 
-## Phenotypic <!-- Neuroanatomical? Sensory? -->Evolution During Rapid Avian Radiations <!-- (genomics here, with Shannon and Mike) -->
+## Phenotypic <!-- Neuroanatomical? Sensory? -->Evolution During Rapid Avian Radiations
 <!-- ## Species Traits and Speciation -->
 <!-- ## Rapid phenotyping -->
 <!-- ## Avian morphometrics -->
@@ -109,13 +109,12 @@ Relevant publications and presentations:
 
 * __Eliason CM__, McCullough J, Andersen MJ, Hackett SJ. 2021. Accelerated brain shape evolution is associated with rapid diversification in an avian radiation. _The American Naturalist_ 197(5).
 * __Eliason CM__, Clarke JA. Pipelines and methods for visualization and analysis of phenomic data. Society for the Study of Evolution annual conference. Austin, TX. June 17 - 21, 2016. [[poster]](/img/phenome_poster.jpg) (manuscript currently in revisions)
-* Maia R, __Eliason CM__, Bitton, P-P, Doucet SM, Shawkey MD. 2013. pavo: an R package for the analysis, visualization and organization of spectral data. _Methods in Ecology and Evolution_ 4:906-913. [[pdf]]({{url}}/pdfs/pavo.pdf) [[doi]](https://doi.org/10.1111/2041-210X.12069)
 
 ## Comparative Genomics of Sensory Systems
 
-<img src="/img/synteny.png" style="margin: 0 auto">
+<img src="/img/synteny.png" style="margin: 0 auto" width="300" height="300">
 
-We recently sequenced a high quality reference genome of a collared kingfisher. We are now interested in identifying the genomic basis of variable phenotypes across many species in the family and quantifying the evolutionary patterns across the kingfisher radiation. Powerful new approaches for combining genomes and phenomes will be used to shed light on the evolutionary processes underlying trait evolution.
+We recently sequenced a high-quality reference genome of a collared kingfisher. We are now interested in identifying the genomic basis of variable phenotypes across many species in the family and quantifying the evolutionary patterns across the kingfisher radiation. Powerful new approaches for combining genomes and phenomes will be used to shed light on the evolutionary processes underlying trait evolution.
 
 Relevant publications:
 

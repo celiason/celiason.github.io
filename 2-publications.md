@@ -5,19 +5,21 @@ title: Publications
 
 ([Google Scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [Academia.edu](http://utexas.academia.edu/ChadEliason), [ResearchGate](https://www.researchgate.net/profile/Chad_Eliason))
 
-<!-- ## Published or in press -->
+## Submitted
 
-### 2022
+__Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review at _eLife_. [[bioarxiv]](https://doi.org/10.1101/2022.09.26.509475)
 
 <!--
-__Eliason CM__, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review at _eLife_.
 __Eliason CM__, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions at _Evolution_.
 __Eliason CM__, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions at _Journal of the Royal Society Open Science_.
 __Eliason CM__, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (\textit{Argusianus argus}) flight feathers. In revisions at _iScience_.
-
 -->
 
-__Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at _G3: Genes, Genomes, Genetics_.
+## Published or in press
+
+### 2022
+
+__Eliason CM__, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at _G3: Genes, Genomes, Genetics_. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
 
 ---
 
