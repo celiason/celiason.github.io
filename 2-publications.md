@@ -15,7 +15,7 @@ __Eliason CM__, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, B
 __Eliason CM__, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (\textit{Argusianus argus}) flight feathers. In revisions at _iScience_.
 -->
 
-## Published or in press
+## Published
 
 ### 2022
 
