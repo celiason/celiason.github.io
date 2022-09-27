@@ -39,7 +39,7 @@ Eliason CM, Clarke JA. 2020. Cassowary gloss and a novel form of structural colo
 
 ![](img/sciadv_cover.gif)
 
-__Eliason CM__, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). _Evolution_. [[doi]](https://doi.org/10.1111/evo.13893) [[pdf]]({{url}}/pdfs/hummingbirds.pdf)
+Eliason CM, Maia R, Parra JL, Shawkey MD. 2020. Signal evolution and morphological complexity in hummingbirds (Aves: Trochilidae). __Evolution__. [[doi]](https://doi.org/10.1111/evo.13893) [[pdf]]({{url}}/pdfs/hummingbirds.pdf)
 
 ---
 
