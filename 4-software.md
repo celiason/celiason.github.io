@@ -8,7 +8,7 @@
 [[article doi]](https://doi.org/10.1111/2041-210X.12069)
 [[github]](https://github.com/rmaia/pavo)
 
-<img src="/img/pavo-workflow.png" style="margin: 0 auto" width="400" height="400">
+<img src="/img/pavo-workflow.png" style="margin: 0 auto" width="480">
 
 ### phenotools
 
