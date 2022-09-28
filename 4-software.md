@@ -8,7 +8,7 @@
 [[article doi]](https://doi.org/10.1111/2041-210X.12069)
 [[github]](https://github.com/rmaia/pavo)
 
-![](/img/pavo-workflow.png)*Workflow in pavo*
+![](/img/pavo-workflow.png width="400" height="400")*Workflow in pavo*
 
 ### phenotools
 
