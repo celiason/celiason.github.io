@@ -9,6 +9,8 @@ title: Media
 
 Hummingbird color research highlighted in [The National Audubon Society](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures)
 
+Cassowary gloss and paleocolor - [ZME Science](https://www.zmescience.com/science/fossil-friday-feathers-colours-92035234/)
+
 ### 2018
 
 Dinosaur color research covered by [Reuters](https://www.reuters.com/article/us-science-dinosaur/chinese-rainbow-dinosaur-had-iridescent-feathers-like-hummingbirds-idUSKBN1F415D), [Discover Magazine](https://www.discovermagazine.com/planet-earth/meet-caihong-juji-the-shimmering-show-off-feathered-dinosaur), [National Geographic](https://www.nationalgeographic.com/animals/article/new-dinosaur-rainbow-feathers-china-caihong-paleontology-science), [ABC](https://www.abc.net.au › news › rainbow-dinosaur-caihong)
