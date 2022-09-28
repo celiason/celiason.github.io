@@ -14,7 +14,7 @@
 
 ### phenotools
 
-phenotools provides functionality for inputting phenomic datasets; merging datasets into a single phenomic dataset based on a common set of taxa; annotating characters based on fuzzy text searching/trait ontologies; filtering overlapping phenomic characters and taxa (e.g. merging taxa into supraspecific terminals); visualizing similarities in character description; and outputting phenomic datasets to common phylogenetic data formats for downstream analysis (Figure 1).
+phenotools provides functionality for inputting phenomic data sets; merging data sets into a single phenomic data set based on a common set of taxa; annotating characters based on fuzzy text searching/trait ontologies (see image below); filtering overlapping phenomic characters and taxa (e.g. merging taxa into supraspecific terminals); visualizing similarities in character description; and outputting phenomic data sets to common phylogenetic data formats for downstream analysis.
 
 [[article doi]](https://doi.org/10.1111/2041-210X.13217)
 [[zenodo]](https://zenodo.org/record/2654974)
