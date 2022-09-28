@@ -7,13 +7,19 @@ title: Media
 
 ### 2020
 
-Hummingbird color research featured in [The National Audubon Society](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures)
+Hummingbird color research highlighted in [The National Audubon Society](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures)
 
-## 2018
+### 2018
 
 Dinosaur color research covered by [Reuters](https://www.reuters.com/article/us-science-dinosaur/chinese-rainbow-dinosaur-had-iridescent-feathers-like-hummingbirds-idUSKBN1F415D), [Discover Magazine](https://www.discovermagazine.com/planet-earth/meet-caihong-juji-the-shimmering-show-off-feathered-dinosaur), [National Geographic](https://www.nationalgeographic.com/animals/article/new-dinosaur-rainbow-feathers-china-caihong-paleontology-science)
 
+### 2017
+
+Fossil feather research highlighted in the National Science Foundation's Science 360 News
+
 ### 2016
+
+Dinosaur vocalization covered by The Tonight Night Show with Jimmy Fallon, Time Magazine, NPR Weekend Edition; highlighted in Discover Magazine as one of the top-100 science stories of the year
 
 New Research Debunks The Dinosaur's Roar (__NPR Weekend Edition__, July 2016)
 
