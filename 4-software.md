@@ -1,4 +1,7 @@
-# Software
+---
+layout: page
+title: Software
+---
 
 ## R packages
 
