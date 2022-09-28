@@ -67,7 +67,7 @@ Dongyu H, Clarke JA, Eliason CM, Qiu R, Li Q, Shawkey MD, Zhao C, D'Alba L, Jian
 
 ### 2017
 
-Eliason CM, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. __Proceedings of the Royal Society B_ 284: 20170556.__ [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556) [[pdf]]({{url}}/pdfs/lagerstatten.pdf)
+Eliason CM, Hudson L*, Watts T*, Garza H*, Clarke JA. 2017. Exceptional preservation and the fossil record of tetrapod integument. __Proceedings of the Royal Society B__ 284: 20170556. [[doi]](http://dx.doi.org/10.1098/rspb.2017.0556) [[pdf]]({{url}}/pdfs/lagerstatten.pdf)
 
 D'Alba L, Torres R, Waterhouse G, Eliason CM, Hauber M, Shawkey MD. 2017. What does the eggshell cuticle do? A functional comparison of eggshell cuticles. __Physiological and Biochemical Zoology__ 90: 588-599. [[doi]](https://doi.org/10.1086/693434)
 
