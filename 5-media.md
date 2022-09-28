@@ -5,6 +5,14 @@ title: Media
 
 ## Press coverage
 
+### 2020
+
+Hummingbird color research featured in __The National Audubon Society__ [[link]](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures)
+
+## 2018
+
+Dinosaur color research covered by [[Reuters]](https://www.reuters.com/article/us-science-dinosaur/chinese-rainbow-dinosaur-had-iridescent-feathers-like-hummingbirds-idUSKBN1F415D), [[Discover Magazine]](https://www.discovermagazine.com/planet-earth/meet-caihong-juji-the-shimmering-show-off-feathered-dinosaur), [[National Geographic]](https://www.nationalgeographic.com/animals/article/new-dinosaur-rainbow-feathers-china-caihong-paleontology-science)
+
 ### 2016
 
 New Research Debunks The Dinosaur's Roar (__NPR Weekend Edition__, July 2016)
