@@ -1,4 +1,7 @@
-# Media
+---
+layout: page
+title: Media
+---
 
 ## Press coverage
 
