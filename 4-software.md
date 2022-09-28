@@ -17,5 +17,7 @@ phenotools provides functionality for inputting phenomic datasets; merging datas
 [[article doi]](https://doi.org/10.1111/2041-210X.13217)
 [[zenodo]](https://zenodo.org/record/2654974)
 
+<img src="/img/phenotools-matching.jpg" style="margin: 0 auto" width="480">
+
 ## Code
 
