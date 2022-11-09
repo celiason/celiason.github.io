@@ -10,7 +10,6 @@ title: Publications
 Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
 <!--
-Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions.
 Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions.
 Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In revisions.
 -->
@@ -18,6 +17,8 @@ Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue
 ## Published or in press
 
 ### 2022
+
+Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. Accepted at __Evolution__.
 
 Eliason CM, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at __G3: Genes, Genomes, Genetics__. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
 
