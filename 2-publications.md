@@ -11,12 +11,13 @@ Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid 
 
 <!--
 Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions.
-Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In revisions.
 -->
 
 ## Published or in press
 
 ### 2022
+
+Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. Accepted. [[doi]](https://doi.org/10.1016/j.isci.2022.105912)
 
 Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. Accepted at __Evolution__.
 
