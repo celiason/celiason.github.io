@@ -17,9 +17,9 @@ Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates
 
 ### 2022
 
-Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. Accepted. [[doi]](https://doi.org/10.1016/j.isci.2022.105912)
+Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In press at __iScience__. [[doi]](https://doi.org/10.1016/j.isci.2022.105912)
 
-Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. Accepted at __Evolution__.
+Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. __Evolution__.
 
 Eliason CM, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at __G3: Genes, Genomes, Genetics__. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
 
