@@ -13,7 +13,7 @@ Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid 
 
 ### 2023
 
-Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). Accepted at __Royal Society Open Science__.
+Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Interspecific hybridization explains rapid gorget color divergence in _Heliodoxa_ hummingbirds (Aves: Trochilidae). Accepted at __Royal Society Open Science__.
 
 ### 2022
 
