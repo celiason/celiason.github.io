@@ -5,7 +5,8 @@ title: Publications
 
 ([Google Scholar](http://scholar.google.com/citations?user=IJ7DM7kAAAAJ&amp;hl=en), [Academia.edu](http://utexas.academia.edu/ChadEliason), [ResearchGate](https://www.researchgate.net/profile/Chad_Eliason))
 
-</--
+<!--
+
 ## Forthcoming
 
 Eliason CM, Nicoläi M, Bom C, D'Alba LD, Shawkey MD. Why are tropical birds so colourful? In review at __Ecology Letters__. 
