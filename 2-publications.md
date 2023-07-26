@@ -12,6 +12,8 @@ title: Publications
 
 ### 2023
 
+Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. 2023. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__.
+
 Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. __eLife__ [[doi]](https://doi.org/10.7554/eLife.83426) [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
 Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Interspecific hybridization explains rapid gorget color divergence in _Heliodoxa_ hummingbirds (Aves: Trochilidae). Accepted at __Royal Society Open Science__. [[doi]](https://doi.org/10.1098/rsos.221603)
