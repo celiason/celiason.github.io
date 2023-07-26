@@ -7,11 +7,12 @@ title: Publications
 
 ## Forthcoming
 
-Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
 ## Published or in press
 
 ### 2023
+
+Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. __eLife__ [[doi]](https://doi.org/10.7554/eLife.83426) [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
 Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Interspecific hybridization explains rapid gorget color divergence in _Heliodoxa_ hummingbirds (Aves: Trochilidae). Accepted at __Royal Society Open Science__. [[doi]](https://doi.org/10.1098/rsos.221603)
 
