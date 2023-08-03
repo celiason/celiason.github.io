@@ -9,7 +9,7 @@ title: Publications
 
 Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. Submitted to __Nature Ecology & Evolution__. [[bioRxiv preprint]]()
 
-Eliason CM, Nicoläi M, Bom C, D'Alba LD, Shawkey MD. Why are tropical birds so colourful? In review. 
+Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many colourful birds in the tropics? In review. 
 
 Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior are stronger on islands. In revisions.
 
