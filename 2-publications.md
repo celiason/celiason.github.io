@@ -13,6 +13,8 @@ Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so m
 
 Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior are stronger on islands. In revisions.
 
+Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In review.
+
 ## Published or in press
 
 ### 2023
