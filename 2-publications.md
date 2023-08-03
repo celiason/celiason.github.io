@@ -7,7 +7,7 @@ title: Publications
 
 ## Forthcoming
 
-Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. Submitted to __Nature Ecology & Evolution__. [[bioRxiv preprint]]()
+Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. In review. [[bioRxiv preprint]]()
 
 Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many colourful birds in the tropics? In review. 
 
