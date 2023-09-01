@@ -11,13 +11,13 @@ Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and 
 
 Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many colourful birds in the tropics? In review. 
 
-Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior are stronger on islands. In revisions.
-
 Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In review.
 
 ## Published or in press
 
 ### 2023
+
+Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior are stronger on islands. In press at __Communications Biology__.
 
 Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__.
 
