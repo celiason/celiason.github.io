@@ -17,7 +17,7 @@ Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx
 
 ### 2023
 
-Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior are stronger on islands. In press at __Communications Biology__.
+Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. Genomic signatures of convergent shifts to plunge-diving behavior in birds. In press at __Communications Biology__.
 
 Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__.
 
