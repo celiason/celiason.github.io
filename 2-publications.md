@@ -11,15 +11,15 @@ Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and 
 
 Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many colourful birds in the tropics? In review. 
 
-Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In review.
-
 ## Published or in press
 
 ### 2023
 
-Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. 2023. Genomic signatures of convergent shifts to plunge-diving behavior in birds. __Communications Biology__ 6(2011). [[doi]](https://doi.org/10.1038/s42003-023-05359-z)
+Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In revisions at __Zoological Journal of the Linnean Society__.
 
 Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__.
+
+Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. 2023. Genomic signatures of convergent shifts to plunge-diving behavior in birds. __Communications Biology__ 6(2011). [[doi]](https://doi.org/10.1038/s42003-023-05359-z)
 
 Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. 2023. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). __eLife__ [[doi]](https://doi.org/10.7554/eLife.83426) [[bioRxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
 
