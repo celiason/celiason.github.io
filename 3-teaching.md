@@ -21,7 +21,7 @@ At the Field Museum, I have continued mentoring undergraduate students on projec
 
 ## Outreach
 
-I am commited to making my science accessible to a broad audience. To this end, I have been actively involved in local outreach events.
+I am commited to making my science accessible to a broad audience. To this end, I have been actively involved in local outreach events. I also love my daughter Paige.
 
 ![](/img/caihong_donors.jpg)*Me at an outreach event at a local bar in Chicago talking about a newly-discovered rainbow-colored dinosaur*
 
