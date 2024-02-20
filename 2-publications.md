@@ -15,9 +15,9 @@ Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so m
 
 ### 2024
 
-Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In revisions at __Zoological Journal of the Linnean Society__.
+Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). In revisions at __Zoological Journal of the Linnean Society__. [[doi]](https://doi.org/10.1093/zoolinnean/zlae001)
 
-Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__.
+Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. Homology and the evolution of vocal folds in the novel avian voice box. In press at __Current Biology__. [[doi]](https://doi.org/10.1016/j.cub.2023.12.013)
 
 ---
 
