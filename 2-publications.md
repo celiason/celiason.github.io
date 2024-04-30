@@ -9,11 +9,11 @@ title: Publications
 
 Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. In review. [[bioRxiv preprint]](https://doi.org/10.1101/2023.08.02.551664)
 
-Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many colourful birds in the tropics? In review. 
-
 ## Published or in press
 
 ### 2024
+
+Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. Why are there so many structurally coloured bird species in the tropics? In press at __Nature Ecology & Evolution__. 
 
 Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. 2024. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). __Zoological Journal of the Linnean Society__. [[doi]](https://doi.org/10.1093/zoolinnean/zlae001)
 
