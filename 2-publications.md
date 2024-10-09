@@ -7,6 +7,8 @@ title: Publications
 
 ## Forthcoming
 
+Eliason CM, Riede T, Laverde-R O, Goller F, Clarke JA. Acoustic allometry in birds informs the estimation of extinct dinosaur vocalizations. In review.
+
 McCullough JM, Eliason CM, Hackett SJ, Myers C, Andersen MJ. Phylogenomics of a genus of ‘Great Speciators’ reveals rampant incomplete lineage sorting, gene flow, and mitochondrial capture in island systems. In review. [[bioRxiv preprint]](https://doi.org/10.1101/2024.08.28.610082)
 
 Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. In review. [[bioRxiv preprint]](https://doi.org/10.1101/2023.08.02.551664)
