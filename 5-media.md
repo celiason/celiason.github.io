@@ -5,9 +5,15 @@ title: Media
 
 ## Press coverage
 
+### 2021
+
+Iridescent coloration in birds - [Princeton University](https://environment.princeton.edu/news/birds-dazzling-iridescence-tied-to-nanoscale-tweak-of-feather-structure/)
+
 ### 2020
 
-Hummingbird color research highlighted in [The National Audubon Society](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures)
+Hummingbird color research highlighted in [The National Audubon Society](https://www.audubon.org/news/hummingbirds-owe-their-shimmer-microscopic-pancake-structures), [Birding Wire](https://www.birdingwire.com/releases/267d861f-a734-466d-a7e7-66ee06e4e8b3)
+
+Cassowary gloss and paleocolor - [ZME Science](https://www.zmescience.com/science/fossil-friday-feathers-colours-92035234/), [Cosmos Magazine](https://cosmosmagazine.com/nature/cassowaries-shine-in-an-interesting-way/)
 
 ### 2018
 

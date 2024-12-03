@@ -7,19 +7,41 @@ title: Publications
 
 ## Forthcoming
 
-Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). In review. [[bioarxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
+Eliason CM, Riede T, Laverde-R O, Goller F, Clarke JA. Acoustic allometry in birds informs the estimation of extinct dinosaur vocalizations. In review.
 
-<!--
-Eliason CM, Proffitt JV, Clarke JA. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. In revisions.
-Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. Transgressive hybridization can accelerate the evolution of gorget color divergence in Heliodoxa hummingbirds (Aves: Trochilidae). In revisions.
-Eliason CM, Clarke JA, Kane SA. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. In revisions.
--->
+McCullough JM, Eliason CM, Hackett SJ, Myers C, Andersen MJ. Phylogenomics of a genus of ‘Great Speciators’ reveals rampant incomplete lineage sorting, gene flow, and mitochondrial capture in island systems. In review. [[bioRxiv preprint]](https://doi.org/10.1101/2024.08.28.610082)
+
+Eliason CM, Marcondes RS, Eaton MD, Maia R, Burns KJ, Shultz AJ. Constraint and innovation in color evolution among species and among plumage patches in five avian radiations. In review. [[bioRxiv preprint]](https://doi.org/10.1101/2023.08.02.551664)
 
 ## Published or in press
 
+### 2024
+
+Eliason CM, Nicoläi M, Bom C, Blom E, D'Alba LD, Shawkey MD. 2024. Transitions between colour mechanisms affect speciation dynamics and range distributions of birds. __Nature Ecology & Evolution__ 8(9). [[doi]](https://doi.org/10.1038/s41559-024-02487-5)
+
+Legendre LJ, Rodriguez-Saltos CA, Eliason CM, Clarke JA. 2024. Evolution of the syrinx of Apodiformes including the vocal-learning Trochilidae (Aves: Strisores). __Zoological Journal of the Linnean Society__. [[doi]](https://doi.org/10.1093/zoolinnean/zlae001)
+
+Longtine C, Eliason CM, Lee C, Mishkind D, Chiappone M, Goller F, Love J, Kingsley EP, Clarke JA, Tabin CF. 2024. Homology and the evolution of vocal folds in the novel avian voice box. __Current Biology__ 34(3). [[doi]](https://doi.org/10.1016/j.cub.2023.12.013)
+
+---
+
+### 2023
+
+Eliason CM, Mellenthin LE, Hains T, McCullough JM, Pirro S, Andersen SJ, Hackett SJ. 2023. Genomic signatures of convergent shifts to plunge-diving behavior in birds. __Communications Biology__ 6(2011). [[doi]](https://doi.org/10.1038/s42003-023-05359-z)
+
+Eliason CM, McCullough JM, Hackett SJ, Andersen MJ. 2023. Complex plumages spur rapid color diversification in island kingfishers (Aves: Alcedinidae). __eLife__ [[doi]](https://doi.org/10.7554/eLife.83426) [[bioRxiv preprint]](https://doi.org/10.1101/2022.09.26.509475)
+
+Eliason CM, Cooper JC, Hackett SJ, Zahnle E, Pequeño Sacoe TZ, Hauber ME, Bates JM. 2023. Interspecific hybridization explains rapid gorget color divergence in _Heliodoxa_ hummingbirds (Aves: Trochilidae). __Royal Society Open Science__. [[doi]](https://doi.org/10.1098/rsos.221603)
+
+---
+
 ### 2022
 
-Eliason CM, McCullough JM, Hains T, Andersen MJ, Shackett SJ. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). In press at __G3: Genes, Genomes, Genetics__. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
+Eliason CM, Clarke JA, Kane SA. 2022. Wrinkle nanostructures generate diffractive blue color in great argus (_Argusianus argus_) flight feathers. __iScience__. [[doi]](https://doi.org/10.1016/j.isci.2022.105912)
+
+Eliason CM, Proffitt JV, Clarke JA. 2022. Early diversification of avian limb morphology and the role of modularity in the locomotor evolution of crown birds. __Evolution__.
+
+Eliason CM, McCullough JM, Hains T, Andersen MJ, Shackett SJ. 2022. Genome report: Genomic novelty within a 'great speciator' revealed by a high-quality reference genome of the collared kingfisher (_Todiramphus chloris collaris_). __G3: Genes, Genomes, Genetics__. [[doi]](https://doi.org/10.1093/g3journal/jkac260)
 
 ---
 
