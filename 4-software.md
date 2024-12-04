@@ -25,8 +25,6 @@ phenotools provides functionality for inputting phenomic data sets; merging data
 
 <!-- ## Other code -->
 
-## football
+<!-- ## football
 
-<iframe src="bumpchart.html" width="800" height="400"></iframe>
-
-<img src="bumpchart.html">
+<iframe src="bumpchart.html" width="800" height="400"></iframe> -->
