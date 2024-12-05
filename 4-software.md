@@ -25,4 +25,8 @@ phenotools provides functionality for inputting phenomic data sets; merging data
 
 ## football
 
-{% include_relative bumpchart.html %}
+<iframe id="igraph" scrolling="no" style="border:none;"
+seamless="seamless"
+src="bumpchart.html"
+alt="Cumulative Case Counts"
+height="525" width="100%"></iframe>
