@@ -12,7 +12,7 @@ title: Software
 [[github]](https://github.com/rmaia/pavo)
 [[package]](https://cran.r-project.org/web/packages/pavo/index.html)
 
-<img src="img/pavo-workflow.png" style="margin: 0 auto" width="480">
+<img src="/img/pavo-workflow.png" style="margin: 0 auto" width="480">
 
 ## phenotools
 
@@ -21,7 +21,7 @@ phenotools provides functionality for inputting phenomic data sets; merging data
 [[article doi]](https://doi.org/10.1111/2041-210X.13217)
 [[package]](https://zenodo.org/record/2654974)
 
-<img src="img/phenotools-matching.jpg" style="margin: 0 auto" width="480">
+<img src="/img/phenotools-matching.jpg" style="margin: 0 auto" width="480">
 
 ## football
 
