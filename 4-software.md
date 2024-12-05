@@ -23,8 +23,6 @@ phenotools provides functionality for inputting phenomic data sets; merging data
 
 <img src="img/phenotools-matching.jpg" style="margin: 0 auto" width="480">
 
-<!-- ## Other code -->
+## football
 
-<!-- ## football
-
-<iframe src="bumpchart.html" width="800" height="400"></iframe> -->
+{% include_relative bumpchart.html %}
